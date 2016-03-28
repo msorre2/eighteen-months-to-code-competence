@@ -27,8 +27,7 @@ CS Curriculum to Become a Freelance Web Developer
 
 ##Timeline:
 
-###Month #1: Introduction to Web Dev and CS
-June = 30 Days = 4 weeks
+###Month #1: June: Introduction to Web Dev and CS
 
 ####Week 1 - Web Dev 101
 1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
@@ -51,8 +50,7 @@ June = 30 Days = 4 weeks
 2. Complete [Free Code Camp jQuery](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)  
 3.
 
-###Month #2 - July
-July = 31 Days = 5 weeks
+###Month #2 - July 2016
 
 ####Week 5 -
 1. 
@@ -80,8 +78,7 @@ July = 31 Days = 5 weeks
 3.
 4. If necessary, complete [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
 
-###Month #3 - Learn to Program
-August = 31 Days = 4 weeks
+###Month #3 - August 2016: Learn to Program
 
 ####Week 10 - 
 1. 
@@ -103,8 +100,7 @@ August = 31 Days = 4 weeks
 2. Continue [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (50 hrs)
 3.
 
-###Month #4 - Learn to Program with Ruby
-September = 30 Days = 4 weeks
+###Month #4 - Learn to Program with Ruby - September 2016
 
 ####Week 14 - 
 1. 
@@ -126,62 +122,65 @@ September = 30 Days = 4 weeks
 2. Start [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
 3.
 
-####Week 18 -
+###Month #5 - October 2016
+
+####Week 18 - 
 1. 
 2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
 3.
 
-###Month #5
-October = 31 Days = 5 weeks
 ####Week 19 - 
+
 ####Week 20 - 
+
 ####Week 21 -
+
 ####Week 22 -
 
-###Month #6
-November = 30 Days = 4 weeks
-####Week 23 - 
-####Week 24 - 
-####Week 25 -
-####Week 26 -
-####Week 27 - 
+###Month #6 - November 2016
 
-###Month #7
-December = 31 Days = 5 weeks
+####Week 23 - 
+
+####Week 24 - 
+
+####Week 25 -
+
+####Week 26 -
+
+###Month #7 - December 2016
+####Week 27 - 
 ####Week 28 - 
 ####Week 29 - 
 ####Week 30 -
 ####Week 31 -
 
-###Month #8
-January = 31 Days = 4 weeks
+###Month #8 - January 2017
 ####Week 32 - 
 ####Week 33 - 
 ####Week 34 -
 ####Week 35 -
 
-###Month #9
-February = 28 Days (leap years 29) = 4 weeks
+###Month #9 - February 2017
 ####Week 36 - 
 ####Week 37 - 
 ####Week 38 -
 ####Week 39 -
  
-###Month #10
-March = 31 Days = 5 weeks
+###Month #10 - March 2017
 ####Week 40 -
 ####Week 41 - 
 ####Week 42 - 
 ####Week 43 -
 ####Week 44 -
 
-###Month #11
-April = 30 Days = 4 weeks
+###Month #11 - April 2017
 ####Week 45 - 
 ####Week 46 - 
 ####Week 47 -
 ####Week 48 -
 
-###Month #12
-May = 31 Days = 5 weeks
+###Month #12 - May 2017
 ####Week 49 - 
+####Week 50 -
+####Week 51 -
+####Week 52 -
