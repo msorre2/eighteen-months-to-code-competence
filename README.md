@@ -27,18 +27,64 @@ CS Curriculum to Become a Freelance Web Developer
 ##Timeline:
 ###Month #1: Introduction to Web Dev and CS
 ####Week 1 - Web Dev 101
-1. [Complete Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development) and [Web Dev 101](http://www.theodinproject.com/web-development-101)
-####Week 2 -
+1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
+2. Complete [Free Code Camp - Getting Started](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
+####Week 2 - Web Dev Fundamentals
+2. Complete [Web Dev 101](http://www.theodinproject.com/web-development-101)
 ####Week 3 -
 ####Week 4 -
-###Month #2
-###Month #3
+###Month #2 - Learn to Program
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
+###Month #3 - Learn Ruby
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #4
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #5
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #6
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #7
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #8
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #9
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #10
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #11
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
 ###Month #12
+####Week 1 - 
+####Week 2 - 
+####Week 3 -
+####Week 4 -
