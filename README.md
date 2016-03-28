@@ -26,6 +26,10 @@ CS Curriculum to Become a Freelance Web Developer
 
 ##Timeline:
 ###Month #1
+####Week 1 - 
+####Week 2 -
+####Week 3 -
+####Week 4 -
 ###Month #2
 ###Month #3
 ###Month #4
