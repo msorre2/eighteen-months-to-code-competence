@@ -15,6 +15,9 @@ CS Curriculum to Become a Freelance Web Developer
 
 <li>The Odin Project</li>
 ###http://www.theodinproject.com/courses?ref=home
+
+<li>Web Development using Python & Django</li>
+###https://www.springboard.com/learning-paths/web-development-python-django/learn/#
 </ol>
 ---
 
@@ -45,23 +48,23 @@ CS Curriculum to Become a Freelance Web Developer
 
 ###Month #2 - July 2016: Programming Basics with Javascript
 
-####Week 5 -
+####Week 5
 1. Start [The Odin Project The Basics and the Browser](http://www.theodinproject.com/javascript-and-jquery)
 2. Start [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
 3. Complete [Free Code Camp Javascript Lingo](https://www.freecodecamp.com/map#nested-collapseJavaScriptLingo) (1 hr)
 
-####Week 6 - 
+####Week 6 
 1. Start [The Odin Project Events, Effects and Widgets](http://www.theodinproject.com/javascript-and-jquery)
 2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) ()
 3. Complete [Free Code Camp Chrome Developer Tools](https://www.freecodecamp.com/map#nested-collapseChromeDeveloperTools) (1 hr)
 4. Complete [Free Code Camp Big O Notation](https://www.freecodecamp.com/map#nested-collapseBigONotation) (30 min)
 
-####Week 7 - 
+####Week 7 
 1. Start [The Odin Project Deeper into Javascript](http://www.theodinproject.com/javascript-and-jquery)
 2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)  
 3.
 
-####Week 8 -
+####Week 8
 1. Start [The Odin Project Advanced Browser Work, Better Forms with jQuery and AJAX](http://www.theodinproject.com/javascript-and-jquery)
 2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) 
 3.
@@ -77,22 +80,22 @@ CS Curriculum to Become a Freelance Web Developer
 ####Week 10 - 
 1. 
 2. Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (10 hrs)
-3.
+3. Continue [CS50 Week 3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 11 - 
 1. 
 2. Complete [Free Code Camp Object-Oriented and Functional Programming](https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables) (2 hrs)
-3.
+3. Continue [CS50 Week 3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 12 -
 1. 
 2. Start [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (50 hrs)
-3.
+3. Continue [CS50 Week 4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 13 -
 1. 
 2. Continue [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (50 hrs)
-3.
+3. Continue [CS50 Week 4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ###Month #4 - Learn to Program with Ruby - September 2016
 
@@ -121,38 +124,38 @@ CS Curriculum to Become a Freelance Web Developer
 ####Week 18 - 
 1. [The Odin Project Intro to Rails](http://www.theodinproject.com/ruby-on-rails)
 2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
-3.
+3. Continue [CS50 Week 5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 19 - 
 1. Complete [The Odin Project Routes, Views, Controllers and Assets](http://www.theodinproject.com/ruby-on-rails)
 2.  
-3.
+3. Continue [CS50 Week 5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 20 - 
 1. Complete [The Odin Project Databases and Active Record](http://www.theodinproject.com/ruby-on-rails)
 2.  
-3.
+3. Continue [CS50 Week 5/6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 21 -
 1. Complete [The Odin Project Forms and Authentication](http://www.theodinproject.com/ruby-on-rails)
 2.  
-3.
+3. Continue [CS50 Week 6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 22 -
 1. Complete [The Odin Project Advanced Forms and Active Record](http://www.theodinproject.com/ruby-on-rails)
 2.  
-3.
+3. Continue [CS50 Week 6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ###Month #6 - November 2016
 
-####Week 23 - 
-1. Complete [The Odin Project APIs, Mailers and Advanced Topics](http://www.theodinproject.com/ruby-on-rails)
-2.  
+####Week 23 - Python
+1. Complete [The Odin Project APIs, Mailers and Advanced Topics](http://www.theodinproject.com/ruby-on-rails) 
+2. Complete [Udacity CS101 - Intro to Computer Science](https://www.udacity.com/course/cs101) (20-25 hrs)
 3.
 
 ####Week 24 - 
 1. 
-2.  
+2. Read [Udacity's Bridge Material Between CS101 and CS253](https://www.udacity.com/wiki/cs253/bridge_cs101)
 3.
 
 ####Week 25 -
@@ -165,34 +168,34 @@ CS Curriculum to Become a Freelance Web Developer
 2.  
 3.
 
-###Month #7 - December 2016
+###Month #7 - December 2016: Databases
 
 ####Week 27 - 
-1. 
+1. Complete [Lesson 3 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756013/m-48712316) (2 hrs)
 2. Start [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)
-3.
+3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 28 - 
-1. 
+1. Complete [Zetcode's MySQL Tutorial](http://zetcode.com/databases/mysqltutorial/) (3-5 hrs)
 2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
-3.
+3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 29 - 
 1. 
 2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)    
-3.
+3. Continue [CS50 Week 7/8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 30 -
 1. 
 2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
-3.
+3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 31 -
 1. 
 2. Finish [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
-3.
+3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-###Month #8 - January 2017
+###Month #8 - January 2017: HTML5 and CSS3
 
 ####Week 32 - 
 1. 
@@ -214,29 +217,29 @@ CS Curriculum to Become a Freelance Web Developer
 2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
 3.
 
-###Month #9 - February 2017
+###Month #9 - February 2017: Advanced Front- and Back-End
 
 ####Week 36 - 
 1. 
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs) 
-3.
+3. Continue [CS50 Week 9](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 37 - 
 1. 
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs) 
-3.
+3. Continue [CS50 Week 9](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 38 -
 1. 
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
-3.
+3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 39 -
 1. 
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
-3.
+3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-###Month #10 - March 2017
+###Month #10 - March 2017: APIs
 
 ####Week 40 -
 1. 
@@ -263,27 +266,27 @@ CS Curriculum to Become a Freelance Web Developer
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
 3.
 
-###Month #11 - April 2017
+###Month #11 - April 2017: Django Framework
 
 ####Week 45 - 
 1. 
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
-3.
+3. Continue [CS50 Week 11](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 46 - 
 1. 
 2.  
-3.
+3. Continue [CS50 Week 11](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 47 -
 1. 
 2.  
-3.
+3. Continue [CS50 Week 12](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ####Week 48 -
 1. 
 2.  
-3.
+3. Continue [CS50 Week 12](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ###Month #12 - May 2017: Getting Hired
 
