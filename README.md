@@ -6,23 +6,16 @@ CS Curriculum to Become a Freelance Web Developer
 ####PHP, Wordpress and other technologies are covered briefly
 
 ##Uses the following resources:
-1. Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II
+<ol>
+<li>Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II</li>
 ####http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
 
-2. Free Code Camp
+<li>Free Code Camp</li>
 ####https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works
 
-3. Udacity's Intro to Programming Nanodegree
-####This introductory Nanodegree program teaches you the foundational skills all programmers use, whether they program mobile apps, create web pages, or analyze data.
-####It is ideal for beginners who want to learn new skills, make informed choices about career goals, and set themselves up for success in career-track Nanodegree programs.
-
-4. Udacity's Full Stack Web Developer Nanodegree 
-####This program will prepare you for a job as a Full Stack Web Developer, and teach you to build complex server-side web applications that use powerful relational databases to persistently store data.
-####You’ll learn to build applications that can support any front-end, and scale to support hundreds of thousands of users.
-
-5. The Odin Project
+<li>The Odin Project</li>
 ###http://www.theodinproject.com/courses?ref=home
-
+</ol>
 ---
 
 ##Timeline:
@@ -130,57 +123,185 @@ CS Curriculum to Become a Freelance Web Developer
 3.
 
 ####Week 19 - 
+1. 
+2.  
+3.
 
 ####Week 20 - 
+1. 
+2.  
+3.
 
 ####Week 21 -
+1. 
+2.  
+3.
 
 ####Week 22 -
+1. 
+2.  
+3.
 
 ###Month #6 - November 2016
 
 ####Week 23 - 
+1. 
+2.  
+3.
 
 ####Week 24 - 
+1. 
+2.  
+3.
 
 ####Week 25 -
+1. 
+2.  
+3.
 
 ####Week 26 -
+1. 
+2.  
+3.
 
 ###Month #7 - December 2016
+
 ####Week 27 - 
+1. 
+2.  
+3.
+
 ####Week 28 - 
+1. 
+2.  
+3.
+
 ####Week 29 - 
+1. 
+2.  
+3.
+
 ####Week 30 -
+1. 
+2.  
+3.
+
 ####Week 31 -
+1. 
+2.  
+3.
 
 ###Month #8 - January 2017
+
 ####Week 32 - 
+1. 
+2.  
+3.
+
 ####Week 33 - 
+1. 
+2.  
+3.
+
 ####Week 34 -
+1. 
+2.  
+3.
+
 ####Week 35 -
+1. 
+2.  
+3.
 
 ###Month #9 - February 2017
+
 ####Week 36 - 
+1. 
+2.  
+3.
+
 ####Week 37 - 
+1. 
+2.  
+3.
+
 ####Week 38 -
+1. 
+2.  
+3.
+
 ####Week 39 -
- 
+1. 
+2.  
+3.
+
 ###Month #10 - March 2017
+
 ####Week 40 -
+1. 
+2.  
+3.
+
 ####Week 41 - 
+1. 
+2.  
+3.
+
 ####Week 42 - 
+1. 
+2.  
+3.
+
 ####Week 43 -
+1. 
+2.  
+3.
+
 ####Week 44 -
+1. 
+2.  
+3.
 
 ###Month #11 - April 2017
+
 ####Week 45 - 
+1. 
+2.  
+3.
+
 ####Week 46 - 
+1. 
+2.  
+3.
+
 ####Week 47 -
+1. 
+2.  
+3.
+
 ####Week 48 -
+1. 
+2.  
+3.
 
 ###Month #12 - May 2017
+
 ####Week 49 - 
+1. 
+2.  
+3.
+
 ####Week 50 -
+1. 
+2.  
+3.
+
 ####Week 51 -
+1. 
+2.  
+3.
+
 ####Week 52 -
+1. 
+2.  
+3.
