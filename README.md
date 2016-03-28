@@ -24,7 +24,11 @@ CS Curriculum to Become a Freelance Web Developer
 ##Timeline:
 
 ###Month #1: June: Introduction to Web Dev and CS
-
+* Read the following books: 
+  <ol>
+    <li>[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)</li>
+    <li>[Learning to Program by Steven Foote]()</li>
+  </ol>
 ####Week 1 - Web Dev 101
 1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
 2. Complete [Free Code Camp - Getting Started](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
@@ -47,6 +51,10 @@ CS Curriculum to Become a Freelance Web Developer
 3. Continue [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ###Month #2 - July 2016: Programming Basics with Javascript
+Read the following books
+<ol>
+  <li>[Javascript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)</li>
+</ol>
 
 ####Week 5 - Intro to JS
 1. Start [The Odin Project The Basics and the Browser](http://www.theodinproject.com/javascript-and-jquery)
@@ -62,71 +70,72 @@ CS Curriculum to Become a Freelance Web Developer
 ####Week 7 - Deeper into JS
 1. Start [The Odin Project Deeper into Javascript](http://www.theodinproject.com/javascript-and-jquery)
 2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)  
-3. Semmy Purewal
+3. Start [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
 
 ####Week 8
 1. Start [The Odin Project Advanced Browser Work, Better Forms with jQuery and AJAX](http://www.theodinproject.com/javascript-and-jquery)
 2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) 
-3. Start [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
+3. Continue [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
 
 ####Week 9 -
 1. Complete [The Odin Project Finishing Up With Javascript](http://www.theodinproject.com/javascript-and-jquery)
-2. 
+2. Complete [Node School JS Tutorials](http://nodeschool.io/#workshoppers) 
 3. Finish [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
 4. If necessary, complete [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
 
-###Month #3 - August 2016: Learn to Program
+###Month #3 - August 2016: Programming with Python
 
 ####Week 10 - 
-1. 
+1. Complete [Problem Set 1 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48230541/e-48689147/m-48727384)
 2. Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (10 hrs)
 3. Continue [CS50 Week 3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-####Week 11 - 
-1. 
+####Week 11 
+1. Start [Learn Python the Hard Way - Ch. 0-17](http://learnpythonthehardway.org/book/)
 2. Complete [Free Code Camp Object-Oriented and Functional Programming](https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables) (2 hrs)
 3. Continue [CS50 Week 3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-####Week 12 -
-1. 
+####Week 12
+1. Continue [Learn Python the Hard Way - Ch. 18-37](http://learnpythonthehardway.org/book/)
 2. Start [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (50 hrs)
 3. Continue [CS50 Week 4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-####Week 13 -
-1. 
+####Week 13
+1. Complete [Learn Python the Hard Way - Ch. 38-52](http://learnpythonthehardway.org/book/)
 2. Continue [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (50 hrs)
 3. Continue [CS50 Week 4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 ###Month #4 - Learn to Program with Ruby - September 2016
 
-####Week 14 - 
+####Week 14
 1. Start [The Odin Project Basic Ruby](http://www.theodinproject.com/ruby-programming)
 2. Continue [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (50 hrs)
-3.
+3. Complete [Intro to Flask](http://flaskbook.com/#flaskintro)
+4 Start [Open Tech School's Python Flask](http://opentechschool.github.io/python-flask/) 
 
 ####Week 15 - 
 1. Start [The Odin Project Intermediate Ruby](http://www.theodinproject.com/ruby-programming)
 2. Complete [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (50 hrs)
-3.
+3. Complete [Open Tech School's Python Flask](http://opentechschool.github.io/python-flask/) 
 
 ####Week 16 -
 1. Start [The Odin Project Ruby on the Web, CS, RSpect, Git](http://www.theodinproject.com/ruby-programming)
 2. Start [Free Code Camp JSON, APIs and AJAX](https://www.freecodecamp.com/map#nested-collapseJSONAPIsandAjax) (2 hrs)
-3.
+3. Start [Writing your first Django App](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
 
 ####Week 17 -
 1. Complete [Odin Project Ruby Conclusion](http://www.theodinproject.com/ruby-programming)
 2. Start [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
-3.
+3. Complete [Writing your first Django App](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
 
 ###Month #5 - October 2016: Ruby on Rails
 
-####Week 18 - 
+####Week 18
 1. [The Odin Project Intro to Rails](http://www.theodinproject.com/ruby-on-rails)
 2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
 3. Continue [CS50 Week 5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-####Week 19 - 
+####Week 19 
 1. Complete [The Odin Project Routes, Views, Controllers and Assets](http://www.theodinproject.com/ruby-on-rails)
 2.  
 3. Continue [CS50 Week 5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -239,27 +248,27 @@ CS Curriculum to Become a Freelance Web Developer
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
 3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-###Month #10 - March 2017: 
+###Month #10 - March 2017: Advanced Topics - APIs and Frameworks 
 
 ####Week 40 - D
-1. 
+1. Start [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
-3.
+3. Complete [Zapier Intro to APIs](https://zapier.com/learn/apis/)
 
 ####Week 41 - 
-1. 
+1. Complete [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
-3.
+3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
 
 ####Week 42 - 
-1. 
+1. Start [Codecademy AngularJS](https://www.codecademy.com/learn/learn-angularjs)
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
-3.
+3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
 
 ####Week 43 -
-1. 
+1. Complete [Codecademy AngularJS](https://www.codecademy.com/learn/learn-angularjs)
 2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
-3.
+3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
 
 ####Week 44 -
 1. 
