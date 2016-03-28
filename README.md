@@ -32,17 +32,37 @@ CS Curriculum to Become a Freelance Web Developer
 ####Week 1 - Web Dev 101
 1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
 2. Complete [Free Code Camp - Getting Started](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
+3. Complete [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+Binary. ASCII. Algorithms. Pseudocode. Source code. Compiler. Object code. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Functions. Arrays. Threads. Events. 
 
 ####Week 2 - Web Dev Fundamentals
 1. Complete [Web Dev 101](http://www.theodinproject.com/web-development-101)
- 
+2. 
+3. 
+
 ####Week 3 -
+1. 
+2.  
+3.
+
 ####Week 4 -
- 
+1. 
+2.  
+3.
+
 ###Month #2 - 
 ####Week 5 -
+1. 
+2.  
+3.
 ####Week 6 - 
+1. 
+2.  
+3.
 ####Week 7 - 
+1. 
+2.  
+3.
 ####Week 8 -
 ####Week 9 -
 
