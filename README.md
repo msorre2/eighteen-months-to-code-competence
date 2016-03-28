@@ -25,8 +25,9 @@ CS Curriculum to Become a Freelance Web Developer
 ---
 
 ##Timeline:
-###Month #1
-####Week 1 - 
+###Month #1: Introduction to Web Dev and CS
+####Week 1 - Web Dev 101
+1. [Complete Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development) and [Web Dev 101](http://www.theodinproject.com/web-development-101)
 ####Week 2 -
 ####Week 3 -
 ####Week 4 -
