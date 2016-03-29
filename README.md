@@ -10,7 +10,7 @@
 * This curriculum requires a substantial commitment, about 20-30 hours a week
   
   ##Uses the following resources:
-  <ol>
+  <ul>
   <li>[Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)</li>
   
   <li>[Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)</li>
@@ -18,7 +18,7 @@
   <li>[The Odin Project](http://www.theodinproject.com/courses?ref=home)</li>
   
   <li>[Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)</li>
-  </ol>
+  </ul>
   ---
   
   ##Timeline:
