@@ -1,7 +1,7 @@
 #Eighty-Seven Month Developer
-CS Curriculum to Become a Freelance Web Developer
+#####CS Curriculum to Become a Freelance Web Developer
   
-#####This program starts in June 2016 and continues through May 2017
+* This program starts in June 2016 and continues through May 2017
   
 * This curriculum includes HTML, CSS, as well as the javascript and python languages
   
@@ -17,10 +17,10 @@ CS Curriculum to Become a Freelance Web Developer
   ---
 ##Timeline:
   
-###Month #1: June - ''Introduction to Web Dev and CS''
-    Read the following books: 
-    * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
-    * _[Learning to Program by Steven Foote](URL)_
+###Month #1: June - 'Introduction to Web Dev and CS'
+  Read the following books: 
+  * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
+  * _[Learning to Program by Steven Foote](URL)_
     
 
 ####Week 1 - Intro to Web Dev
