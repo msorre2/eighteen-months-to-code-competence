@@ -3,25 +3,21 @@
   
   #####This program starts in June 2016 and continues through May 2017
   
-  ##This curriculum includes HTML, CSS, as well as the javascript and python languages
-  * PHP, Ruby, Wordpress and other technologies are extra credit
-  * 
+* This curriculum includes HTML, CSS, as well as the javascript and python languages
   
-  ##This curriculum requires a substantial commitment, at least 20 hours a week
+* PHP, Ruby, Wordpress and other technologies are extra credit
+  
+* This curriculum requires a substantial commitment, about 20-30 hours a week
   
   ##Uses the following resources:
   <ol>
-  <li>Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II</li>
-  * http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
+  <li>[Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)</li>
   
-  <li>Free Code Camp</li>
-  * https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works
+  <li>[Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)</li>
   
-  <li>The Odin Project</li>
-  * http://www.theodinproject.com/courses?ref=home
+  <li>[The Odin Project](http://www.theodinproject.com/courses?ref=home)</li>
   
-  <li>Web Development using Python & Django</li>
-  * https://www.springboard.com/learning-paths/web-development-python-django/learn/#
+  <li>[Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)</li>
   </ol>
   ---
   
