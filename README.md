@@ -1,4 +1,4 @@
-# Eighty-seven Month Developer
+#Eighty-Seven Month Developer
 <p>CS Curriculum to Become a Freelance Web Developer</p>
   
 #####This program starts in June 2016 and continues through May 2017
