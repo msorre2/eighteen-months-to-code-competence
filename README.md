@@ -22,12 +22,11 @@
   ---
 ##Timeline:
   
-###Month #1: June: Introduction to Web Dev and CS
+###Month #1: June - ''Introduction to Web Dev and CS''
     Read the following books: 
-    <ul>
-      <li>[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)</li>
-      <li>[Learning to Program by Steven Foote]()</li>
-    </ul>
+    *[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
+    *[Learning to Program by Steven Foote]()
+    
 
 ####Week 1 - Intro to Web Dev
   1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
