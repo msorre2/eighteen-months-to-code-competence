@@ -14,7 +14,7 @@
   * [Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
   * [The Odin Project](http://www.theodinproject.com/courses?ref=home)
   * [Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)
-  ---
+- - - - 
 ##Timeline:
   
 ###Month #1: June - 'Introduction to Web Dev and CS'
