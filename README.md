@@ -33,7 +33,7 @@
   * _[Learning to Program by Steven Foote](URL)_
 
 --------------------------------------------------------------------------------------------------------------------------------------
-####Week 1 - Intro to Web Dev
+Week 1 - Intro to Web Dev
 
   1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
 
@@ -41,9 +41,9 @@
 
   3. Start [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-Project 0: Create first HTML website with basic CSS style sheet
+####Project 0: Create first HTML website with basic CSS style sheet
 --------------------------------------------------------------------------------------------------------------------------------------
-####Week 2 - Web Dev Fundamentals
+Week 2 - Web Dev Fundamentals
 
   1. Complete [Web Dev 101](http://www.theodinproject.com/web-development-101)
 
@@ -51,9 +51,9 @@ Project 0: Create first HTML website with basic CSS style sheet
 
   3. Continue [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-Project 1: Create HTML and CSS templates
+####Project 1: Create HTML and CSS templates
 --------------------------------------------------------------------------------------------------------------------------------------
-####Week 3 - Wev Dev Fundamentals 2: Computer Basics
+Week 3 - Wev Dev Fundamentals 2: Computer Basics
 
   1. Complete [Free Code Camp Computer Basics](https://www.freecodecamp.com/map#nested-collapseComputerBasics) (2 hrs)
 
@@ -61,9 +61,9 @@ Project 1: Create HTML and CSS templates
 
   3. Start [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-Project 2: Create a Bootstrap website
+####Project 2: Create a Bootstrap website
 --------------------------------------------------------------------------------------------------------------------------------------
-####Week 4 - The DOM, jQuery
+Week 4 - The DOM, jQuery
 
   1. Complete [Free Code Camp 'The Dom'](https://www.freecodecamp.com/map#nested-collapseTheDOM) (30 min)
 
@@ -71,7 +71,7 @@ Project 2: Create a Bootstrap website
 
   3. Continue [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-Project 3: Create a website with jQuery animation
+####Project 3: Create a website with jQuery animation
 
 - - - -
 
