@@ -1,7 +1,7 @@
-  # Year-and-a-Half Developer
-  CS Curriculum to Become a Freelance Web Developer
+# Eighty-seven Month Developer
+<p>CS Curriculum to Become a Freelance Web Developer</p>
   
-  #####This program starts in June 2016 and continues through May 2017
+#####This program starts in June 2016 and continues through May 2017
   
 * This curriculum includes HTML, CSS, as well as the javascript and python languages
   
