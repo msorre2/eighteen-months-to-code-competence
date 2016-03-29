@@ -1,9 +1,13 @@
-# developer-in-a-year
+# Year-and-a-Half Developer
 CS Curriculum to Become a Freelance Web Developer
-#####This sample program starts in June 2016 and continues through May 2017
 
-##This curriculum includes the java, javascript, python and ruby languages
-* PHP, Wordpress and other technologies are covered briefly
+#####This program starts in June 2016 and continues through May 2017
+
+##This curriculum includes HTML, CSS, as well as the javascript and python languages
+* PHP, Ruby, Wordpress and other technologies are extra credit
+* 
+
+##This curriculum requires a substantial commitment, at least 20 hours a week
 
 ##Uses the following resources:
 <ol>
@@ -297,24 +301,92 @@ Read the following books
 2.  
 3. Continue [CS50 Week 12](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-###Month #12 - May 2017: Getting Hired
+
+###Month #12 - May 2017
 
 ####Week 49 - 
+
+####Week 50 -
+
+####Week 51 -
+
+####Week 52 -
+
+####Week 53 - 
+
+
+###Month #13 - June 2017: 
+
+####Week 54 -
+
+####Week 55 -
+
+####Week 56 -
+
+####Week 57 - 
+
+
+###Month #14 - July 2017:
+
+####Week 58 -
+
+####Week 59 -
+
+####Week 60 -
+
+####Week 61 - 
+
+####Week 62 -
+
+###Month #15 - August 2017:
+
+####Week 63 -
+
+####Week 64 -
+
+####Week 65 - 
+
+####Week 66 -
+
+
+###Month #16 - July 2017:
+
+####Week 67 -
+
+####Week 68 -
+
+####Week 69 -
+
+####Week 70 -
+
+
+###Month #17 - August 2017:
+
+####Week 80
+
+####Week 81
+
+####Week 82
+
+####Week 83
+
+###Month #18 - September 2017: Getting Hired
+
+####Week 84
 1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
 2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
 3.
 
-####Week 50 -
+####Week 85
 1. [The Odin Project Applying to and Interviewing for Jobs](http://www.theodinproject.com/getting-hired-as-a-web-developer)
 2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
 3.
-
-####Week 51 -
+####Week 86
 1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
 2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
 3. [Free Code Camp Mock Interviews] (https://www.freecodecamp.com/map#nested-collapse-mock-interviews) (10 hrs)
 
-####Week 52 -
+####Week 87
 1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
 2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
 3. [Free Code Camp Mock Interviews] (https://www.freecodecamp.com/map#nested-collapse-mock-interviews) (10 hrs)
