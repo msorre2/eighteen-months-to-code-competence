@@ -1,4 +1,4 @@
-#Eighty-Seven Month Developer
+#Eighteen-Month Developer
 #####CS Curriculum to Become a Freelance Web Developer
   
 * This program starts in June 2016 and continues through May 2017
@@ -195,27 +195,27 @@
 
 ###Month #7 - December 2016: Databases
   
-  ####Week 27 - 
+  ####Week 27 
   1. Complete [Lesson 3 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756013/m-48712316) (2 hrs)
   2. Start [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  ####Week 28 - 
+  ####Week 28 
   1. Complete [Zetcode's MySQL Tutorial](http://zetcode.com/databases/mysqltutorial/) (3-5 hrs)
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  ####Week 29 - 
+  ####Week 29 
   1. 
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)    
   3. Continue [CS50 Week 7/8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  ####Week 30 -
+  ####Week 30
   1. 
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  ####Week 31 -
+  ####Week 31
   1. 
   2. Finish [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -323,7 +323,7 @@
   
 - - - -
 
-  ###Month #12 - May 2017
+###Month #12 - May 2017
 
   ####Week 49 - 
 
@@ -349,8 +349,8 @@
   ####Week 57 - 
 
 - - - -  
-  
-  ###Month #14 - July 2017:
+
+###Month #14 - July 2017:
   
   ####Week 58 -
   
