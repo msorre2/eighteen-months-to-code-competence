@@ -26,28 +26,28 @@
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
   * _[Learning to Program by Steven Foote](URL)_
     
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 ####Week 1 - Intro to Web Dev
   1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
   2. Complete [Free Code Camp - Getting Started](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
   3. Start [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   <p>Binary. ASCII. Algorithms. Pseudocode. Source code. Compiler. Object code. Scratch. Statements. Boolean expressions. Conditions. Loops. Variables. Functions. Arrays. Threads. Events.</p>
-  
+-----------------------------------------------------------------------------------------------------------------------------------------
 ####Week 2 - Web Dev Fundamentals
   1. Complete [Web Dev 101](http://www.theodinproject.com/web-development-101)
   2. Complete [Free Code Camp HTML and CSS](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
   3. Continue [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
-  
+-----------------------------------------------------------------------------------------------------------------------------------------
 ####Week 3 - Wev Dev Fundamentals 2: Computer Basics
   1. Complete [Free Code Camp Computer Basics](https://www.freecodecamp.com/map#nested-collapseComputerBasics) (2 hrs)
   2. Complete [Free Code Camp Reponsive Design with Bootstrap](https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers)  
   3. Start [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
-  
+-----------------------------------------------------------------------------------------------------------------------------------------
 ####Week 4 - The DOM, jQuery
   1. Complete [Free Code Camp 'The Dom'](https://www.freecodecamp.com/map#nested-collapseTheDOM) (30 min)
   2. Complete [Free Code Camp jQuery](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)  
   3. Continue [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
-
+-----------------------------------------------------------------------------------------------------------------------------------------
 - - - -
 
 ###Month #2 - July 2016: Programming Basics with Javascript
