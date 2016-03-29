@@ -21,8 +21,6 @@
  
 ##Timeline:
 
-- - - -
-
 ###Month #1: June - 'Introduction to Web Dev and CS'
   Read the following books: 
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
