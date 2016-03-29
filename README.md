@@ -19,8 +19,8 @@
   
 ###Month #1: June - ''Introduction to Web Dev and CS''
     Read the following books: 
-    *[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
-    *[Learning to Program by Steven Foote]()
+    * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
+    * _[Learning to Program by Steven Foote](URL)_
     
 
 ####Week 1 - Intro to Web Dev
