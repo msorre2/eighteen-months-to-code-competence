@@ -8,13 +8,17 @@
 * PHP, Ruby, Wordpress and other technologies are extra credit
   
 * This curriculum requires a substantial commitment, about 20-30 hours a week
-  
+
+- - - -
+
   ##Uses the following resources:
   * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
   * [Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
   * [The Odin Project](http://www.theodinproject.com/courses?ref=home)
   * [Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)
-- - - - 
+
+- - - -
+ 
 ##Timeline:
   
 ###Month #1: June - 'Introduction to Web Dev and CS'
