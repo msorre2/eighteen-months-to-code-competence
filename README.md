@@ -20,7 +20,9 @@
 - - - -
  
 ##Timeline:
-  
+
+- - - -
+
 ###Month #1: June - 'Introduction to Web Dev and CS'
   Read the following books: 
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
@@ -47,7 +49,9 @@
   1. Complete [Free Code Camp 'The Dom'](https://www.freecodecamp.com/map#nested-collapseTheDOM) (30 min)
   2. Complete [Free Code Camp jQuery](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)  
   3. Continue [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
-  
+
+- - - -
+
 ###Month #2 - July 2016: Programming Basics with Javascript
   Read the following books
   <ol>
@@ -81,7 +85,9 @@
   3. Finish [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
   4. If necessary, complete [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
   
-  ###Month #3 - August 2016: Programming with Python
+- - - -
+
+###Month #3 - August 2016: Programming with Python
   
 ####Week 10 - 
   1. Complete [Problem Set 1 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48230541/e-48689147/m-48727384)
@@ -103,6 +109,8 @@
   2. Continue [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (50 hrs)
   3. Continue [CS50 Week 4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
+- - - -
+
 ###Month #4 - Web Programming with Python - September 2016
   
 ####Week 14
@@ -126,6 +134,8 @@
   2. Start [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
   3. Complete [Writing your first Django App](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
   
+- - - -
+
 ###Month #5 - October 2016: 
   
 ####Week 18
@@ -153,7 +163,9 @@
   2.  
   3. Continue [CS50 Week 6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  ###Month #6 - November 2016: Python
+- - - -
+
+###Month #6 - November 2016: Python
   
   ####Week 23 - Other Important Things to Know
   1. Complete [The Odin Project APIs, Mailers and Advanced Topics](http://www.theodinproject.com/ruby-on-rails) 
@@ -178,8 +190,10 @@
   2.  Testing
   3. Networks
   4. Common Algorithms
-  
-  ###Month #7 - December 2016: Databases
+
+- - - -
+
+###Month #7 - December 2016: Databases
   
   ####Week 27 - 
   1. Complete [Lesson 3 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756013/m-48712316) (2 hrs)
@@ -206,7 +220,9 @@
   2. Finish [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  ###Month #8 - January 2017: HTML5 and CSS3
+- - - -
+
+###Month #8 - January 2017: HTML5 and CSS3
   
   ####Week 32 - 
   1. 
@@ -227,8 +243,10 @@
   1. 
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
   3.
-  
-  ###Month #9 - February 2017: Advanced Front- and Back-End
+
+- - - -
+
+###Month #9 - February 2017: Advanced Front- and Back-End
   
   ####Week 36 - 
   1. 
@@ -250,7 +268,9 @@
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  ###Month #10 - March 2017: Advanced Topics - APIs and Frameworks 
+- - - -
+
+###Month #10 - March 2017: Advanced Topics - APIs and Frameworks 
   
   ####Week 40 - D
   1. Start [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
@@ -276,8 +296,10 @@
   1. 
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3.
-  
-  ###Month #11 - April 2017: Data Visualization
+
+- - - -
+
+###Month #11 - April 2017: Data Visualization
   
   ####Week 45 - 
   1. Complete [Free Code Camp SASS](https://www.freecodecamp.com/map#collapseData-Visualization-Certification) (5 hrs)
@@ -299,21 +321,24 @@
   2.  
   3. Continue [CS50 Week 12](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  
+- - - -
+
   ###Month #12 - May 2017
-  
+
   ####Week 49 - 
-  
+
   ####Week 50 -
-  
+
   ####Week 51 -
-  
+
   ####Week 52 -
-  
+
   ####Week 53 - 
-  
-  
-  ###Month #13 - June 2017: 
+
+- - - -
+
+###Month #13 - June 2017: 
+
   
   ####Week 54 -
   
@@ -322,7 +347,8 @@
   ####Week 56 -
   
   ####Week 57 - 
-  
+
+- - - -  
   
   ###Month #14 - July 2017:
   
@@ -335,8 +361,10 @@
   ####Week 61 - 
   
   ####Week 62 -
-  
-  ###Month #15 - August 2017:
+
+- - - -
+
+###Month #15 - August 2017:
   
   ####Week 63 -
   
@@ -346,8 +374,9 @@
   
   ####Week 66 -
   
+- - - -  
   
-  ###Month #16 - July 2017:
+###Month #16 - July 2017:
   
   ####Week 67 -
   
@@ -357,8 +386,9 @@
   
   ####Week 70 -
   
-  
-  ###Month #17 - August 2017:
+- - - -
+
+###Month #17 - August 2017:
   
   ####Week 80
   
@@ -368,7 +398,9 @@
   
   ####Week 83
   
-  ###Month #18 - September 2017: Getting Hired
+- - - -
+
+###Month #18 - September 2017: Getting Hired
   
   ####Week 84
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
