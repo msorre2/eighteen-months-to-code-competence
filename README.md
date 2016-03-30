@@ -16,6 +16,7 @@
 - - - -
 
   ##Uses the following online resources:
+  * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
   * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
   * [Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
   * [The Odin Project](http://www.theodinproject.com/courses?ref=home)
