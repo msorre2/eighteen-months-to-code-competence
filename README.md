@@ -7,7 +7,7 @@
 
 * This materials also follows Quincy Larson's [suggestion](https://www.quora.com/What-is-the-best-free-way-to-learn-full-stack-JavaScript-development-starting-with-zero-development-knowledge-and-rudimentary-computer-skills) that beginners move from concrete (front-end) to abstract (scripts) to really abstract (back-end) while learning
 
-* The goal is to learn enough programming to be qualified for junior full-stack developer positions
+* The goal is to learn enough programming to be qualified for most junior full-stack developer positions
 
 * This program starts in June 2016 and continues through November 2017
 
