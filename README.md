@@ -35,8 +35,8 @@ Module 2: Back-end Programming
 <li>January 2017 - APIs and Frameworks</li>
 <li>February 2017 - Advanced Front-end</li>
 <li>March 2017 - Data Visualization</li>
-<li>April 2017 - PHP</li>
-<li>May 2017 - Wordpress</li>
+<li>April 2017 - </li>
+<li>May 2017 - PHP and Wordpress</li>
 </ol>
 
 Module 3: Portfolio Development and Getting Hired
@@ -94,6 +94,8 @@ Week 1 - Intro to Web Dev
   2. Complete [Free Code Camp - Getting Started](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
 
   3. Start [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  
+  4. Read [A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) and [Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)
 
     Project 0: Create first HTML website with basic CSS style sheet
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -104,6 +106,8 @@ Week 2 - Web Dev Fundamentals
   2. Complete [Free Code Camp HTML and CSS](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
 
   3. Continue [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  
+  4. Read [What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript), [Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript), [Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices), and [Principles of Unobtrusive Javascript](https://www.w3.org/community/webed/wiki/The_principles_of_unobtrusive_JavaScript)
 
     * Project 1: Create HTML and CSS templates
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -115,6 +119,9 @@ Week 3 - Wev Dev Fundamentals 2: Computer Basics
 
   3. Start [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
       - Linux. C. Compiling. Libraries. Types. Standard output.
+  
+  4. Read [Javscript Functions](https://www.w3.org/community/webed/wiki/JavaScript_functions), [Objects in Javascript](https://www.w3.org/community/webed/wiki/Objects_in_JavaScript), [Traversing the DOM](https://www.w3.org/community/webed/wiki/Traversing_the_DOM), and [Creating and Modifying HTML](https://www.w3.org/community/webed/wiki/Creating_and_modifying_HTML)
+  
 
     * Project 2: Create a Bootstrap website
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -122,10 +129,12 @@ Week 4 - The DOM, jQuery
 
   1. Complete [Free Code Camp 'The Dom'](https://www.freecodecamp.com/map#nested-collapseTheDOM) (30 min)
 
-  2. Complete [Free Code Camp jQuery](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work)  
+  2. Complete [Free Code Camp jQuery](https://www.freecodecamp.com/challenges/learn-how-script-tags-and-document-ready-work) (3 hrs) 
 
-  3. Continue [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  3. Continue [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (2 hrs)
         - Linux. C. Compiling. Libraries. Types. Standard output.
+  
+  4. Read [Dynamic style - manipulating CSS with JavaScript](https://www.w3.org/community/webed/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript), [Handling Events with Javascript](https://www.w3.org/community/webed/wiki/Handling_events_with_JavaScript), [Javascript Animation](https://www.w3.org/community/webed/wiki/JavaScript_animation), and [Graceful Degredation vs Progressive Enhancement](https://www.w3.org/community/webed/wiki/Graceful_degredation_versus_progressive_enhancement)
 
     * Project 3: Create a website with jQuery animation
 
@@ -153,10 +162,11 @@ Week 4 - The DOM, jQuery
   5. Optional: [Code Year Functions in JavaScript](https://www.codecademy.com/courses/4f065456d7df470003008456/resume?curriculum_id=4f4bdd96848740000300026a)
     [Code Year Intro to Objects I and II](
 
-####Week 7 - Deeper into JS
+####Week 7 - JS Core Skills
   1. Start [The Odin Project Deeper into Javascript](http://www.theodinproject.com/javascript-and-jquery)
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)  
   3. Start [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
+  4. 
 
 ####Week 8
   1. Start [The Odin Project Advanced Browser Work, Better Forms with jQuery and AJAX](http://www.theodinproject.com/javascript-and-jquery)
@@ -274,7 +284,7 @@ Week 4 - The DOM, jQuery
 
   ####Week 26 -
   1. Web Servers
-  2.  Testing
+  2. Testing
   3. Networks
   4. Common Algorithms
 
@@ -313,24 +323,24 @@ Week 4 - The DOM, jQuery
 ###Month #8 - January 2017: Advanced Topics - APIs and Frameworks
 ####AngularJS, EspressJS and NodeJS
   ####Week 32 -
-  1.
+  1. Complete [Zapier Intro to APIs](https://zapier.com/learn/apis/)
   2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
-  3.
+  3. [Codecademy APIs](https://www.codecademy.com/apis)
 
   ####Week 33 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
-  3.
+  3. [Codecademy APIs](https://www.codecademy.com/apis)
 
   ####Week 34 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
-  3.
+  3. [Codecademy APIs](https://www.codecademy.com/apis)
 
   ####Week 35 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
-  3.
+  3. [Codecademy APIs](https://www.codecademy.com/apis)
 
 - - - -
 
@@ -338,24 +348,26 @@ Week 4 - The DOM, jQuery
 ####HTML5 and CSS3
 
   ####Week 36 -
-  1.
+  1. [Scalable Vector Graphics](https://www.w3.org/Graphics/SVG/About.html)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Continue [CS50 Week 9](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
   ####Week 37 -
-  1.
+  1. [The Mobile Web](https://www.w3.org/community/webed/wiki/Introduction_to_mobile_web)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Continue [CS50 Week 9](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
   ####Week 38 -
-  1.
+  1. [Writing for the Web](https://www.w3.org/community/webed/wiki/Interact/Writing_for_the_Web)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
   ####Week 39 -
-  1.
+  1. [Digital Design Production](https://www.w3.org/community/webed/wiki/Interact/Digital_Design_Production)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. [Optimizing content for different browsers: the RIGHT way](https://www.w3.org/community/webed/wiki/Optimizing_content_for_different_browsers:_the_RIGHT_way)
+  5. [Advanced CSS Study](https://www.w3.org/community/webed/wiki/Headers_footers_columns_and_templates)
 
 - - - -
 
@@ -365,7 +377,7 @@ Week 4 - The DOM, jQuery
   ####Week 40 - D
   1. Start [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
-  3. Complete [Zapier Intro to APIs](https://zapier.com/learn/apis/)
+  3. 
 
   ####Week 41 -
   1. Complete [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
