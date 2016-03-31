@@ -95,7 +95,7 @@ Week 1 - Intro to Web Dev
 
   3. Start [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-Project 0: Create first HTML website with basic CSS style sheet
+    Project 0: Create first HTML website with basic CSS style sheet
 --------------------------------------------------------------------------------------------------------------------------------------
 Week 2 - Web Dev Fundamentals
 
@@ -105,7 +105,7 @@ Week 2 - Web Dev Fundamentals
 
   3. Continue [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-Project 1: Create HTML and CSS templates
+    Project 1: Create HTML and CSS templates
 --------------------------------------------------------------------------------------------------------------------------------------
 Week 3 - Wev Dev Fundamentals 2: Computer Basics
 
@@ -115,7 +115,7 @@ Week 3 - Wev Dev Fundamentals 2: Computer Basics
 
   3. Start [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-Project 2: Create a Bootstrap website
+    Project 2: Create a Bootstrap website
 --------------------------------------------------------------------------------------------------------------------------------------
 Week 4 - The DOM, jQuery
 
@@ -125,7 +125,7 @@ Week 4 - The DOM, jQuery
 
   3. Continue [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
-Project 3: Create a website with jQuery animation
+    Project 3: Create a website with jQuery animation
 
 - - - -
 
