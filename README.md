@@ -1,6 +1,9 @@
 #Eighteen-Month Developer
 #####Curriculum to Become a Freelance Web Developer
-* This curriculum is based loosely off of: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
+
+* This is a curriculum I designed to structure my learning process, and it is based loosely off of: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
+
+* This materials also follows Quincy Larson's [suggestion](https://www.quora.com/What-is-the-best-free-way-to-learn-full-stack-JavaScript-development-starting-with-zero-development-knowledge-and-rudimentary-computer-skills) that beginners move from concrete (front-end) to abstract (scripts) to really abstract (back-end) while learning
 
 * This program starts in June 2016 and continues through September 2017
 
@@ -30,7 +33,8 @@
 
 ##Timeline:
 
-###Month #1: June - 'Introduction to Web Dev and CS'
+###Month #1: June - 'Introduction to Web Dev and The Structure of Web Pages'
+####HTML, CSS, Bootstrap and jQuery
   Read the following books:
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
   * _[Learning to Program by Steven Foote](URL)_
@@ -79,6 +83,7 @@ Week 4 - The DOM, jQuery
 - - - -
 
 ###Month #2 - July 2016: Programming Basics with Javascript
+####Javascript and Chrome DevTools
   Read the following books
   <ol>
     <li>[Javascript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)</li>
@@ -118,6 +123,7 @@ Week 4 - The DOM, jQuery
 - - - -
 
 ###Month #3 - August 2016: Programming with Python
+####Continue with JS plus basic python
 
 ####Week 10 -
   1. Complete [Problem Set 1 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48230541/e-48689147/m-48727384)
@@ -141,7 +147,8 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #4 - Web Programming with Python - September 2016
+###Month #4 - Intro to Ruby
+####Python, Ruby and Git
 
 ####Week 14
   1. Start [The Odin Project Basic Ruby](http://www.theodinproject.com/ruby-programming)
@@ -166,7 +173,8 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #5 - October 2016:
+###Month #5 - October 2016: Intro to Rails
+####ROR and Ruby
 
 ####Week 18
   1. [The Odin Project Intro to Rails](http://www.theodinproject.com/ruby-on-rails)
@@ -195,7 +203,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #6 - November 2016: Python
+###Month #6 - November 2016: Algorithms
 
   ####Week 23 - Other Important Things to Know
   1. Complete [The Odin Project APIs, Mailers and Advanced Topics](http://www.theodinproject.com/ruby-on-rails)
@@ -224,6 +232,7 @@ Week 4 - The DOM, jQuery
 - - - -
 
 ###Month #7 - December 2016: Databases
+####MongoDB and Relational Databases
 
   ####Week 27
   1. Complete [Lesson 3 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756013/m-48712316) (2 hrs)
@@ -252,7 +261,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #8 - January 2017: HTML5 and CSS3
+###Month #8 - January 2017: Agile Development
 
   ####Week 32 -
   1.
@@ -276,7 +285,8 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #9 - February 2017: Advanced Front- and Back-End
+###Month #9 - February 2017: Advanced Front-end
+####HTML5 and CSS3
 
   ####Week 36 -
   1.
@@ -301,6 +311,7 @@ Week 4 - The DOM, jQuery
 - - - -
 
 ###Month #10 - March 2017: Advanced Topics - APIs and Frameworks
+####AngularJS, EspressJS and NodeJS
 
   ####Week 40 - D
   1. Start [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
@@ -353,7 +364,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #12 - May 2017
+###Month #12 - May 2017: Creating an Online Presence
 
   ####Week 49 -
 
@@ -367,7 +378,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #13 - June 2017:
+###Month #13 - June 2017: Finding Clients and Employers
 
 
   ####Week 54 -
@@ -380,7 +391,7 @@ Week 4 - The DOM, jQuery
 
 - - - -  
 
-###Month #14 - July 2017:
+###Month #14 - July 2017: Getting Work as a Freelance Developer
 
   ####Week 58 -
 
@@ -394,7 +405,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #15 - August 2017:
+###Month #15 - August 2017: 
 
   ####Week 63 -
 
@@ -418,7 +429,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #17 - August 2017:
+###Month #17 - August 2017: Interview Prep
 
   ####Week 80
 
