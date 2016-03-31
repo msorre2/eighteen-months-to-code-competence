@@ -1,5 +1,6 @@
 #Eighteen-Month Developer
 #####Curriculum to Become a Freelance Web Developer
+* This curriculum is based loosely off of: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
 
 * This program starts in June 2016 and continues through September 2017
 
@@ -16,6 +17,7 @@
 - - - -
 
   ##Uses the following online resources:
+  * [Viking Code School Preparatory Materials](http://www.vikingcodeschool.com/prep)
   * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
   * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
   * [Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
@@ -86,12 +88,16 @@ Week 4 - The DOM, jQuery
   1. Start [The Odin Project The Basics and the Browser](http://www.theodinproject.com/javascript-and-jquery)
   2. Start [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
   3. Complete [Free Code Camp Javascript Lingo](https://www.freecodecamp.com/map#nested-collapseJavaScriptLingo) (1 hr)
+  4. Optional: [CodeYear Getting Started with Programming](https://www.codecademy.com/courses/4fa836e5996b00000302064a/resume?curriculum_id=4f4bdd96848740000300026a)
+  5. Optional: [Code Year - FizzBuzz](https://www.codecademy.com/courses/4f08e38e9bced80001000e58/resume?curriculum_id=4f4bdd96848740000300026a)
 
 ####Week 6 - Developer Tools, Big O Notation
   1. Start [The Odin Project Events, Effects and Widgets](http://www.theodinproject.com/javascript-and-jquery)
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) ()
   3. Complete [Free Code Camp Chrome Developer Tools](https://www.freecodecamp.com/map#nested-collapseChromeDeveloperTools) (1 hr)
   4. Complete [Free Code Camp Big O Notation](https://www.freecodecamp.com/map#nested-collapseBigONotation) (30 min)
+  5. Optional: [Code Year Functions in JavaScript](https://www.codecademy.com/courses/4f065456d7df470003008456/resume?curriculum_id=4f4bdd96848740000300026a)
+    [Code Year Intro to Objects I and II](
 
 ####Week 7 - Deeper into JS
   1. Start [The Odin Project Deeper into Javascript](http://www.theodinproject.com/javascript-and-jquery)
