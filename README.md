@@ -9,23 +9,20 @@
 
 * The goal is to learn enough programming to be qualified for most junior full-stack developer positions
 
-* This program starts in June 2016 and continues through November 2017
+* This program starts in June 2016 and continues through November 2017 and requires a substantial commitment of 20-30 hours a week on average
 
-* Includes HTML, CSS, as well as the javascript and python languages
+* Covers HTML, CSS, Javascript, Python, Ruby, Rails Framework, PHP, and SQL languages
 
-* Illustrator, Photoshop, FTP, Bug Testing, Media Queries, jQuery Plugins, Wordpress
+* Agile development, Bootstrap, Wordpress development, APIs, Javascript Frameworks, 
 
-* Relies heavily on projects, about 20 websites total
+* Briefly covered are: Illustrator, Photoshop, FTP, Bug Testing, Media Queries, jQuery Plugins
 
-* PHP, Ruby, Wordpress and other technologies are extra credit
-
-* Requires a substantial commitment of at least 10-20 hours a week
 - - - -
 
 Module 1: Learning to Program
 1. June 2016 - Intro to Web Dev, Javascript Basics
-2. July 2016 - Javascript, Python Basics
-3. August 2016 - Web Programming with Python
+2. July 2016 - Basic Javascript
+3. August 2016 - Javascript, Python
 4. September 2016 - Ruby
 5. October 2016 - Ruby on Rails
 6. November 2016 - Algorithms
@@ -45,6 +42,21 @@ Module 3: Projects and Getting Hired
 16. September 2017 - Portfolio Projects
 17. October 2017 - Interview Prep
 18. November 2017 - Getting Hired
+
+- - - - 
+
+Projects include:
+  1. Basic HTML website with basic CSS style sheet
+  2. HTML and CSS templates
+  3. Basic Bootstrap site
+  4. Site with jQuery animation
+  
+- - - -
+
+Reading List:
+  1. _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
+  2. _[Learning to Program by Steven Foote](URL)_
+  3. _[Javascript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)_
 
 - - - -
 
