@@ -15,7 +15,7 @@
 
 * PHP, Ruby, Wordpress and other technologies are extra credit
 
-* Requires a substantial commitment, about 20-30 hours a week
+* Requires a substantial commitment of at least 10-20 hours a week
 
 - - - -
 
@@ -364,7 +364,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #12 - May 2017: Creating an Online Presence
+###Month #12 - May 2017: PHP
 
   ####Week 49 -
 
@@ -378,7 +378,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #13 - June 2017: Finding Clients and Employers
+###Month #13 - June 2017: Wordpress
 
 
   ####Week 54 -
@@ -392,6 +392,8 @@ Week 4 - The DOM, jQuery
 - - - -  
 
 ###Month #14 - July 2017: Getting Work as a Freelance Developer
+####Creating an Online Presence
+####Finding Clients and Employers
 
   ####Week 58 -
 
@@ -405,7 +407,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #15 - August 2017: 
+###Month #15 - August 2017: Projects
 
   ####Week 63 -
 
@@ -417,7 +419,7 @@ Week 4 - The DOM, jQuery
 
 - - - -  
 
-###Month #16 - July 2017:
+###Month #16 - July 2017: Projects
 
   ####Week 67 -
 
