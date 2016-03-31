@@ -3,7 +3,7 @@
 
 * This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer
 
-* It is based loosely on: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
+* It is based loosely on: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), (3) [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
 
 * This materials also follows Quincy Larson's [suggestion](https://www.quora.com/What-is-the-best-free-way-to-learn-full-stack-JavaScript-development-starting-with-zero-development-knowledge-and-rudimentary-computer-skills) that beginners move from concrete (front-end) to abstract (scripts) to really abstract (back-end) while learning
 
