@@ -1,11 +1,13 @@
 #Eighteen-Month Developer
 #####Curriculum to Become a Freelance Web Developer
 
-* This is a curriculum I designed to structure my learning process, and it is based loosely off of: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
+* This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer
+
+* It is based loosely off of: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
 
 * This materials also follows Quincy Larson's [suggestion](https://www.quora.com/What-is-the-best-free-way-to-learn-full-stack-JavaScript-development-starting-with-zero-development-knowledge-and-rudimentary-computer-skills) that beginners move from concrete (front-end) to abstract (scripts) to really abstract (back-end) while learning
 
-* This program starts in June 2016 and continues through September 2017
+* This program starts in June 2016 and continues through November 2017
 
 * Includes HTML, CSS, as well as the javascript and python languages
 
@@ -366,84 +368,148 @@ Week 4 - The DOM, jQuery
 
 ###Month #12 - May 2017: PHP
 
-  ####Week 49 -
-
+  ####Week 49
+    1.
+    2.  
+    3.
   ####Week 50 -
-
+    1.
+    2.  
+    3.
   ####Week 51 -
-
+    1.
+    2.  
+    3.
   ####Week 52 -
-
+    1.
+    2.  
+    3.
   ####Week 53 -
-
+    1.
+    2.  
+    3.
 - - - -
 
 ###Month #13 - June 2017: Wordpress
 
-
-  ####Week 54 -
-
+  ####Week 54
+    1.
+    2.  
+    3.
+  
   ####Week 55 -
-
+    1.
+    2.  
+    3.
+  
   ####Week 56 -
-
+    1.
+    2.  
+    3.
+  
   ####Week 57 -
-
+    1.
+    2.  
+    3.
 - - - -  
 
 ###Month #14 - July 2017: Getting Work as a Freelance Developer
 ####Creating an Online Presence
 ####Finding Clients and Employers
 
-  ####Week 58 -
-
-  ####Week 59 -
-
-  ####Week 60 -
-
+  ####Week 58
+    1.
+    2.  
+    3.
+  
+  ####Week 59
+    1.
+    2.  
+    3.
+  
+  ####Week 60
+    1.
+    2.  
+    3.
+  
   ####Week 61 -
-
+    1.
+    2.  
+    3.
+  
   ####Week 62 -
-
+    1.
+    2.  
+    3.
 - - - -
 
 ###Month #15 - August 2017: Projects
 
-  ####Week 63 -
-
+  ####Week 63
+    1.
+    2.  
+    3.
   ####Week 64 -
-
+    1.
+    2.  
+    3.
   ####Week 65 -
-
+    1.
+    2.  
+    3.
   ####Week 66 -
-
+    1.
+    2.  
+    3.
+    
 - - - -  
 
-###Month #16 - July 2017: Projects
+###Month #16 - September 2017: Projects
 
-  ####Week 67 -
-
+  ####Week 67
+    1.
+    2.  
+    3.
   ####Week 68 -
-
+    1.
+    2.  
+    3.
   ####Week 69 -
-
+    1.
+    2.  
+    3.
   ####Week 70 -
-
+    1.
+    2.  
+    3.
+    
 - - - -
 
-###Month #17 - August 2017: Interview Prep
+###Month #17 - October 2017: Interview Prep
 
   ####Week 80
-
+    1.
+    2.  
+    3.
+    
   ####Week 81
-
+    1.
+    2.  
+    3.
+    
   ####Week 82
-
+    1.
+    2.  
+    3.
+    
   ####Week 83
-
+    1.
+    2.  
+    3.
+    
 - - - -
 
-###Month #18 - September 2017: Getting Hired
+###Month #18 - November 2017: Getting Hired
 
   ####Week 84
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
