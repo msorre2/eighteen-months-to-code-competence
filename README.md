@@ -3,9 +3,11 @@
 
 * This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer
 
-* It is based loosely off of: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
+* It is based loosely on: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
 
 * This materials also follows Quincy Larson's [suggestion](https://www.quora.com/What-is-the-best-free-way-to-learn-full-stack-JavaScript-development-starting-with-zero-development-knowledge-and-rudimentary-computer-skills) that beginners move from concrete (front-end) to abstract (scripts) to really abstract (back-end) while learning
+
+* The goal is to learn enough programming to be qualified for junior full-stack developer positions
 
 * This program starts in June 2016 and continues through November 2017
 
@@ -13,15 +15,40 @@
 
 * Illustrator, Photoshop, FTP, Bug Testing, Media Queries, jQuery Plugins, Wordpress
 
-* Relies heavily on projects, about 20 websites
+* Relies heavily on projects, about 20 websites total
 
 * PHP, Ruby, Wordpress and other technologies are extra credit
 
 * Requires a substantial commitment of at least 10-20 hours a week
+- - - -
+
+Module 1: Learning to Program
+1. June 2016 - Intro to Web Dev, Javascript Basics
+2. July 2016 - Javascript, Python Basics
+3. August 2016 - Web Programming with Python
+4. September 2016 - Ruby
+5. October 2016 - Ruby on Rails
+6. November 2016 - Algorithms
+
+Module 2: Back-end Programming
+7. December 2016 - Databases and SQL
+8. January 2017 - APIs and Frameworks
+9. February 2017 - Advanced Front-end
+10. March 2017 - Data Visualization
+11. April 2017 - PHP
+12. May 2017 - Wordpress 
+
+Module 3: Projects and Getting Hired
+13. June 2017 - Agile Development
+14. July 2017 - Portfolio Projects
+15. August 2017 - Portfolio Projects
+16. September 2017 - Portfolio Projects
+17. October 2017 - Interview Prep
+18. November 2017 - Getting Hired
 
 - - - -
 
-  ##Uses the following online resources:
+  ##Curriculum Utilizes the following online resources:
   * [Viking Code School Preparatory Materials](http://www.vikingcodeschool.com/prep)
   * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
   * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
@@ -263,8 +290,8 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #8 - January 2017: Agile Development
-
+###Month #8 - January 2017: Advanced Topics - APIs and Frameworks
+####AngularJS, EspressJS and NodeJS
   ####Week 32 -
   1.
   2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
@@ -312,8 +339,8 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #10 - March 2017: Advanced Topics - APIs and Frameworks
-####AngularJS, EspressJS and NodeJS
+###Month #10 - March 2017: Data Visualization
+####
 
   ####Week 40 - D
   1. Start [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
@@ -342,7 +369,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #11 - April 2017: Data Visualization
+###Month #11 - April 2017: PHP
 
   ####Week 45 -
   1. Complete [Free Code Camp SASS](https://www.freecodecamp.com/map#collapseData-Visualization-Certification) (5 hrs)
@@ -366,7 +393,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #12 - May 2017: PHP
+###Month #12 - May 2017: Wordpress
 
   ####Week 49
     1.
@@ -390,7 +417,7 @@ Week 4 - The DOM, jQuery
     3.
 - - - -
 
-###Month #13 - June 2017: Wordpress
+###Month #13 - June 2017: Agile Development
 
   ####Week 54
     1.
