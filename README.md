@@ -348,6 +348,9 @@ Week 4 - The DOM, jQuery
 ###Month #9 - February 2017: Advanced Front-end
 ####HTML5 and CSS3
 
+  * Read [Learn to Code Advanced
+  HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
+
   ####Week 36
   1. [Scalable Vector Graphics](https://www.w3.org/Graphics/SVG/About.html)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
