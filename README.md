@@ -75,6 +75,7 @@ Reading List:
   * [Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)
   * [Codecademy Code Year](https://www.codecademy.com/en/tracks/code-year)
   * [HarvardX CS50 - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
+  * [Makersquare Preparatory Materials](http://www.makersquare.com/admissions#resources)
 
 - - - -
 
