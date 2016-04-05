@@ -76,6 +76,12 @@ Reading List:
   * [Codecademy Code Year](https://www.codecademy.com/en/tracks/code-year)
   * [HarvardX CS50 - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   * [Makersquare Preparatory Materials](http://www.makersquare.com/admissions#resources)
+  * [Code Fellows 201 Prework](https://github.com/codefellows/code-201-prework)
+  * [General Assembly Prework](http://fundamentals.generalassemb.ly/)
+  * [Codeup Prework](http://prework.codeup.com/)
+  * [Flatiron School Prework](https://github.com/flatiron-school/prework.flatironschool.com)
+  * [Learn.co Introductory Materials](https://learn.co/)
+  * [Hack Reactor Prework](http://richardkho.com/pre-course-work/)
 
 - - - -
 
