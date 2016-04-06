@@ -20,41 +20,41 @@
 - - - -
 
 Module 1: Learning to Program
-<ol>
+<ul>
 <li>June 2016 - Intro to Web Dev, Javascript Basics</li>
 <li>July 2016 - Basic Javascript</li>
 <li>August 2016 - Javascript, Python</li>
 <li>September 2016 - Ruby</li>
 <li>October 2016 - Ruby on Rails</li>
 <li>November 2016 - Algorithms</li>
-</ol>
+</ul>
 
 Module 2: Back-end Programming
-<ol>
+<ul>
 <li>December 2016 - Databases and SQL</li>
 <li>January 2017 - APIs and Frameworks</li>
 <li>February 2017 - Advanced Front-end</li>
 <li>March 2017 - Data Visualization</li>
 <li>April 2017 - More Data Visualization</li>
 <li>May 2017 - PHP and Wordpress</li>
-</ol>
+</ul>
 
 Module 3: Portfolio Development and Getting Hired
-<ol>
+<ul>
 <li>June 2017 - Agile Development</li>
 <li>July 2017 - Portfolio Projects</li>
 <li>August 2017 - Portfolio Projects</li>
 <li>September 2017 - Portfolio Projects</li>
 <li>October 2017 - Interview Prep</li>
 <li>November 2017 - Getting Hired</li>
-</ol>
+</ul>
 
 Optional Specialization Sections:
-<ol>
+<ul>
   <li>Data Science and Data Visualization</li>
   <li>iOS Development and Swift</li>
   <li>Android Development and Java</li>
-</ol>
+</ul>
 
 - - - - 
 
