@@ -368,7 +368,8 @@ Week 4 - The DOM, jQuery
 
   ####Week 36
   1. [Scalable Vector Graphics](https://www.w3.org/Graphics/SVG/About.html)
-  2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
+  2. Code School's [You, Me and SVG](http://campus.codeschool.com/courses/you-me-svg/contents)
+  3. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Continue [CS50 Week 9](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
   ####Week 37
