@@ -1,15 +1,13 @@
 #Eighteen-Month Developer
 #####Curriculum to Become a Freelance Web Developer
 
-* This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer
+* This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer, relying almost exclusively on free online resources, with the goal of quickly learning enough programming to be qualified for a junior full-stack developer position
 
-* It is based loosely on: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), (3) [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
+* This program requires a substantial commitment of 20-30 hours a week on average, and goes from May 2016 through October 2017
 
-* This materials also follows Quincy Larson's [suggestion](https://www.quora.com/What-is-the-best-free-way-to-learn-full-stack-JavaScript-development-starting-with-zero-development-knowledge-and-rudimentary-computer-skills) that beginners move from concrete (front-end) to abstract (scripts) to really abstract (back-end) while learning
+* Based loosely on: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), (3) [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
 
-* The goal is to learn enough programming to be qualified for most junior full-stack developer positions
-
-* This program starts in June 2016 and continues through November 2017 and requires a substantial commitment of 20-30 hours a week on average
+* These materials also follows Quincy Larson's [suggestion](https://www.quora.com/What-is-the-best-free-way-to-learn-full-stack-JavaScript-development-starting-with-zero-development-knowledge-and-rudimentary-computer-skills) that beginners move from concrete (front-end) to abstract (scripts) to really abstract (back-end) while learning
 
 * Covers HTML, CSS, Javascript, Python, Ruby, Rails Framework, PHP, and SQL languages
 
@@ -21,32 +19,32 @@
 
 Module 1: Learning to Program
 <ul>
-<li>June 2016 - Intro to Web Dev, Javascript Basics</li>
-<li>July 2016 - Javascript</li>
-<li>August 2016 - Python </li>
-<li>September 2016 - Ruby</li>
-<li>October 2016 - Ruby on Rails</li>
-<li>November 2016 - Algorithms</li>
+<li>May 2016 - Intro to Web Dev, Javascript Basics</li>
+<li>June 2016 - Javascript</li>
+<li>July 2016 - Python </li>
+<li>August 2016 - Ruby</li>
+<li>September 2016 - Ruby on Rails</li>
+<li>October 2016 - Algorithms</li>
 </ul>
 
 Module 2: Back-end Programming
 <ul>
-<li>December 2016 - Databases and SQL</li>
-<li>January 2017 - APIs and Frameworks</li>
-<li>February 2017 - Advanced Front-end</li>
-<li>March 2017 - Data Visualization</li>
-<li>April 2017 - Advanced Data Visualization</li>
-<li>May 2017 - PHP and Wordpress</li>
+<li>November 2016 - Databases and SQL</li>
+<li>December 2016 - APIs and Frameworks</li>
+<li>January 2017 - Advanced Front-end</li>
+<li>February 2017 - Data Visualization</li>
+<li>March 2017 - Advanced Data Visualization</li>
+<li>April 2017 - PHP and Wordpress</li>
 </ul>
 
 Module 3: Portfolio Development and Getting Hired
 <ul>
-<li>June 2017 - Agile Development</li>
+<li>May 2017 - Agile Development</li>
+<li>June 2017 - Portfolio Projects</li>
 <li>July 2017 - Portfolio Projects</li>
 <li>August 2017 - Portfolio Projects</li>
-<li>September 2017 - Portfolio Projects</li>
-<li>October 2017 - Interview Prep</li>
-<li>November 2017 - Getting Hired</li>
+<li>September 2017 - Interview Prep</li>
+<li>October 2017 - Getting Hired</li>
 </ul>
 
 Optional Specialization Sections:
@@ -497,7 +495,7 @@ Week 4 - The DOM, jQuery
 ####Finding Clients and Employers
 
   ####Week 58
-    1.
+    1. Elastic Box's [LAMP Stack Tutorial](https://elasticbox.com/documentation/sample-tutorials/lamp-stack)
     2.  
     3.
   
@@ -520,12 +518,15 @@ Week 4 - The DOM, jQuery
     1.
     2.  
     3.
+    
+      Project: Build a LAMP stack app
+      
 - - - -
 
 ###Month #15 - August 2017: Projects
 
   ####Week 63
-    1.
+    1. Thinkster's [MEAN Stack tutorial](https://thinkster.io/mean-stack-tutorial)
     2.  
     3.
   ####Week 64 -
@@ -541,6 +542,7 @@ Week 4 - The DOM, jQuery
     2.  
     3.
     
+      Project: [Build a MEAN Stack Google Maps App](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-i), [Build a Read-it-Later App](http://blog.madhukaraphatak.com/read-it-later-in-mean-part-1/)
 - - - -  
 
 ###Month #16 - September 2017: Projects
