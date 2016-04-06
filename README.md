@@ -17,7 +17,7 @@
 
 - - - -
 
-Module 1: Learning to Program
+Module 1: Programming Fundamentals
 <ul>
 <li>May 2016 - Intro to Web Dev, Javascript Basics</li>
 <li>June 2016 - Javascript</li>
