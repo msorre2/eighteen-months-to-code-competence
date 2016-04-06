@@ -275,7 +275,10 @@ Week 4 - The DOM, jQuery
 - - - -
 
 ###Month #6 - November 2016: Algorithms
-
+  Read the following:
+  <ol>
+    <li>[Full Stack Skills](https://generalassemb.ly/blog/7-essential-skills-full-stack-product-person/)</li>
+  </ol>
   ####Week 23 - Other Important Things to Know
   1. Complete [The Odin Project APIs, Mailers and Advanced Topics](http://www.theodinproject.com/ruby-on-rails)
   2. Complete [Udacity CS101 - Intro to Computer Science](https://www.udacity.com/course/cs101) (20-25 hrs)
