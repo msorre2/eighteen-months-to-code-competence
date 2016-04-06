@@ -22,8 +22,8 @@
 Module 1: Learning to Program
 <ul>
 <li>June 2016 - Intro to Web Dev, Javascript Basics</li>
-<li>July 2016 - Basic Javascript</li>
-<li>August 2016 - Javascript, Python</li>
+<li>July 2016 - Javascript</li>
+<li>August 2016 - Python </li>
 <li>September 2016 - Ruby</li>
 <li>October 2016 - Ruby on Rails</li>
 <li>November 2016 - Algorithms</li>
@@ -35,7 +35,7 @@ Module 2: Back-end Programming
 <li>January 2017 - APIs and Frameworks</li>
 <li>February 2017 - Advanced Front-end</li>
 <li>March 2017 - Data Visualization</li>
-<li>April 2017 - More Data Visualization</li>
+<li>April 2017 - Advanced Data Visualization</li>
 <li>May 2017 - PHP and Wordpress</li>
 </ul>
 
