@@ -49,6 +49,13 @@ Module 3: Portfolio Development and Getting Hired
 <li>November 2017 - Getting Hired</li>
 </ol>
 
+Optional Specialization Sections:
+<ol>
+  <li>Data Science and Data Visualization</li>
+  <li>iOS Development and Swift</li>
+  <li>Android Development and Java</li>
+</ol>
+
 - - - - 
 
 Projects include:
@@ -446,7 +453,7 @@ Week 4 - The DOM, jQuery
     3.
   ####Week 50 -
     1. Create Your Own Web Server
-    2.  
+    2. Data Camp's [Data Science with Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
     3.
   ####Week 51 -
     1.
