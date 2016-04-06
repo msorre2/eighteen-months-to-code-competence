@@ -87,6 +87,7 @@ Reading List:
   * [Flatiron School Prework](https://github.com/flatiron-school/prework.flatironschool.com)
   * [Learn.co Introductory Materials](https://learn.co/)
   * [Hack Reactor Prework](http://richardkho.com/pre-course-work/)
+  * [Learn.co Web Dev Fundamentals](https://learn.co/tracks/web-development-fundamentals)
 
 - - - -
 
