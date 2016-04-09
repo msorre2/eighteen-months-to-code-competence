@@ -11,7 +11,7 @@
 
 * Covers HTML, CSS, Javascript, Python, Ruby, Rails Framework, PHP, and SQL languages
 
-* Agile development, Bootstrap, Wordpress development, APIs, Javascript Frameworks, 
+* Agile development, Bootstrap, Wordpress development, APIs, Javascript Frameworks
 
 * Briefly covered are: Illustrator, Photoshop, FTP, Bug Testing, Media Queries, jQuery Plugins
 
@@ -62,6 +62,7 @@ Projects include:
   2. HTML and CSS templates
   3. Basic Bootstrap site
   4. Site with jQuery animation
+  5. More...
   
 - - - -
 
@@ -69,6 +70,7 @@ Reading List:
   1. _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
   2. _[Learning to Program by Steven Foote](URL)_
   3. _[Javascript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)_
+  4. More...
 
 - - - -
 
