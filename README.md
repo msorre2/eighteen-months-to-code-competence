@@ -1,9 +1,9 @@
 #Eighteen-Month Developer
-#####Curriculum to Become a Freelance Web Developer
+#####Free Curriculum to Become a Freelance Web Developer
 
-* This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer, relying almost exclusively on free online resources, with the goal of quickly learning enough programming to be qualified for a junior full-stack developer position
+* This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer. It relies almost exclusively on free online resources, with the goal of quickly learning enough programming to be qualified for a junior full-stack developer position
 
-* This program requires a substantial commitment of 20-30 hours a week on average, and goes from May 2016 through October 2017. Read about my journey to full-stack programmer on my [Medium blog](link)
+* This program requires a substantial commitment of 20-30 hours a week on average, and goes from May 2016 through October 2017. Read about my journey to full-stack programmer on my [Medium blog](https://medium.com/@strongdan/).
 
 * Based loosely on: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), (3) [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
 
