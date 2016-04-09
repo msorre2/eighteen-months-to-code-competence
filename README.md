@@ -50,7 +50,7 @@ Module 3: Portfolio Development and Getting Hired
 Optional Specialization Sections:
 <ul>
   <li>Data Science and Data Visualization</li>
-    * [Awesome Data Science Resources](https://github.com/okulbilisim/awesome-datascience)
+    [Awesome Data Science Resources](https://github.com/okulbilisim/awesome-datascience)
   <li>iOS Development and Swift</li>
   <li>Android Development and Java</li>
 </ul>
