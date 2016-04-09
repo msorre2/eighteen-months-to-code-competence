@@ -94,7 +94,7 @@ Reading List:
 
 ##Timeline:
 
-###Month #1: June - Introduction to Web Dev and The Structure of Web Pages
+###Month #1: May - Introduction to Web Dev and The Structure of Web Pages
 ####HTML, CSS, Bootstrap and jQuery
   Read the following books:
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
@@ -154,7 +154,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #2 - July 2016: Programming Basics with Javascript
+###Month #2 - June 2016: Programming Basics with Javascript
 ####Javascript and Chrome DevTools
   Read the following books
   <ol>
@@ -195,7 +195,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #3 - August 2016: Programming with Python
+###Month #3 - July 2016: Programming with Python
 ####Continue with JS plus basic python
 
 ####Week 10 -
@@ -220,7 +220,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #4 - Intro to Ruby
+###Month #4 - August: Intro to Ruby
 ####Python, Ruby and Git
 
 ####Week 14
@@ -246,7 +246,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #5 - October 2016: Intro to Rails
+###Month #5 - September 2016: Intro to Rails
 ####ROR and Ruby
 
 ####Week 18
@@ -276,7 +276,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #6 - November 2016: Algorithms
+###Month #6 - October 2016: Algorithms
   Read the following:
   <ol>
     <li>[Full Stack Skills](https://generalassemb.ly/blog/7-essential-skills-full-stack-product-person/)</li>
@@ -307,7 +307,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #7 - December 2016: Databases
+###Month #7 - November 2016: Databases
 ####MongoDB and Relational Databases
 
   ####Week 27
@@ -337,7 +337,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #8 - January 2017: Advanced Topics - APIs and Frameworks
+###Month #8 - December 2016: Advanced Topics - APIs and Frameworks
   ####AngularJS, EspressJS and NodeJS
 
   ####Week 32 -
@@ -362,7 +362,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #9 - February 2017: Advanced Front-end
+###Month #9 - January 2017: Advanced Front-end
 ####HTML5 and CSS3
 
   * Read [Learn to Code Advanced
@@ -393,7 +393,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #10 - March 2017: Data Visualization
+###Month #10 - February 2017: Data Visualization
 ####
 
   ####Week 40
@@ -423,7 +423,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #11 - April 2017: More Data Visualization
+###Month #11 - March 2017: More Data Visualization
 
   ####Week 45
   1. Complete [Free Code Camp SASS](https://www.freecodecamp.com/map#collapseData-Visualization-Certification) (5 hrs)
@@ -447,7 +447,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #12 - May 2017: PHP and Wordpress
+###Month #12 - April 2017: PHP and Wordpress
   
   * Read [Easy WP Guide](http://easywpguide.com/)
   
@@ -473,7 +473,7 @@ Week 4 - The DOM, jQuery
     3.
 - - - -
 
-###Month #13 - June 2017: Agile Development
+###Month #13 - May 2017: Agile Development
 
   ####Week 54
     1.
@@ -496,7 +496,7 @@ Week 4 - The DOM, jQuery
     3.
 - - - -  
 
-###Month #14 - July 2017: Getting Work as a Freelance Developer
+###Month #14 - June 2017: Getting Work as a Freelance Developer
 ####Creating an Online Presence
 ####Finding Clients and Employers
 
@@ -529,7 +529,7 @@ Week 4 - The DOM, jQuery
       
 - - - -
 
-###Month #15 - August 2017: Projects
+###Month #15 - July 2017: Projects
 
   ####Week 63
     1. Thinkster's [MEAN Stack tutorial](https://thinkster.io/mean-stack-tutorial)
@@ -551,7 +551,7 @@ Week 4 - The DOM, jQuery
       Project: [Build a MEAN Stack Google Maps App](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-i), [Build a Read-it-Later App](http://blog.madhukaraphatak.com/read-it-later-in-mean-part-1/)
 - - - -  
 
-###Month #16 - September 2017: Projects
+###Month #16 - August 2017: Projects
 
   ####Week 67
     1.
@@ -572,7 +572,7 @@ Week 4 - The DOM, jQuery
     
 - - - -
 
-###Month #17 - October 2017: Interview Prep
+###Month #17 - September 2017: Interview Prep
 
   ####Week 80
     1.
@@ -596,7 +596,7 @@ Week 4 - The DOM, jQuery
     
 - - - -
 
-###Month #18 - November 2017: Getting Hired
+###Month #18 - October 2017: Getting Hired
 
   ####Week 84
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
