@@ -82,7 +82,6 @@ Reading List:
   * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
   * [Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
   * [The Odin Project](http://www.theodinproject.com/courses?ref=home)
-  * [Viking Code School Prep Work](https://www.vikingcodeschool.com/prep)
   * [Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)
   * [Codecademy Code Year](https://www.codecademy.com/en/tracks/code-year)
   * [HarvardX CS50 - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
