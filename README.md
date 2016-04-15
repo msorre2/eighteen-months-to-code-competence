@@ -77,6 +77,7 @@ Reading List:
 - - - -
 ##Resources
   ###Curriculum Utilizes the following online resources:
+  * [Open Source Society University CS Bachelor's Degree](https://github.com/open-source-society/computer-science)
   * [Viking Code School Preparatory Materials](http://www.vikingcodeschool.com/prep)
   * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
   * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
