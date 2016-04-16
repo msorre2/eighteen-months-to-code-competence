@@ -76,6 +76,7 @@ Reading List:
   4. More...
 
 - - - -
+
 ##Resources
   ###Curriculum Utilizes the following online resources:
   * [Open Source Society University CS Bachelor's Degree](https://github.com/open-source-society/computer-science)
@@ -376,7 +377,7 @@ Week 4 - The DOM, jQuery
 ###Month #6 - Databases
 ####MongoDB and Relational Databases
 
-  ####Week 27
+####Week 27
   1. Complete [Lesson 3 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756013/m-48712316) (2 hrs)
   2. Start [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -384,7 +385,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 28
+####Week 28
   1. Complete [Zetcode's MySQL Tutorial](http://zetcode.com/databases/mysqltutorial/) (3-5 hrs)
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -392,7 +393,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 29
+####Week 29
   1.
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)    
   3. Continue [CS50 Week 7/8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -400,7 +401,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 30
+####Week 30
   1.
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -408,7 +409,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 31
+####Week 31
   1.
   2. Finish [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -416,9 +417,9 @@ Week 4 - The DOM, jQuery
 - - - -
 
 ###Month #7 - Advanced Topics - APIs and Frameworks
-  ####AngularJS, EspressJS and NodeJS
+####AngularJS, EspressJS and NodeJS
 
-  ####Week 32 -
+####Week 32 -
   1. Complete [Zapier Intro to APIs](https://zapier.com/learn/apis/)
   2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
   3. [Codecademy APIs](https://www.codecademy.com/apis)
@@ -426,7 +427,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 33 -
+####Week 33 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
   3. [Codecademy APIs](https://www.codecademy.com/apis)
@@ -434,7 +435,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 34 -
+####Week 34 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
   3. [Codecademy APIs](https://www.codecademy.com/apis)
@@ -442,7 +443,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
   
-  ####Week 35 -
+####Week 35 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
   3. [Codecademy APIs](https://www.codecademy.com/apis)
@@ -458,7 +459,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 36
+####Week 36
   1. [Scalable Vector Graphics](https://www.w3.org/Graphics/SVG/About.html)
   2. Code School's [You, Me and SVG](http://campus.codeschool.com/courses/you-me-svg/contents)
   3. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
@@ -467,7 +468,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 37
+####Week 37
   1. [The Mobile Web](https://www.w3.org/community/webed/wiki/Introduction_to_mobile_web)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Continue [CS50 Week 9](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -475,7 +476,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 38
+####Week 38
   1. [Writing for the Web](https://www.w3.org/community/webed/wiki/Interact/Writing_for_the_Web)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -483,7 +484,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 39
+####Week 39
   1. [Digital Design Production](https://www.w3.org/community/webed/wiki/Interact/Digital_Design_Production)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -493,9 +494,8 @@ Week 4 - The DOM, jQuery
 - - - -
 
 ###Month #9 - Data Visualization
-####
 
-  ####Week 40
+####Week 40
   1. Start [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. 
@@ -503,7 +503,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 41 -
+####Week 41 -
   1. Complete [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
@@ -511,7 +511,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 42 -
+####Week 42 -
   1. Start [Codecademy AngularJS](https://www.codecademy.com/learn/learn-angularjs)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
@@ -519,7 +519,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
   
-  ####Week 43 -
+####Week 43 -
   1. Complete [Codecademy AngularJS](https://www.codecademy.com/learn/learn-angularjs)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
@@ -527,7 +527,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 44 -
+####Week 44 -
   1.
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3.
@@ -536,7 +536,7 @@ Week 4 - The DOM, jQuery
 
 ###Month #10 - More Data Visualization
 
-  ####Week 45
+####Week 45
   1. Complete [Free Code Camp SASS](https://www.freecodecamp.com/map#collapseData-Visualization-Certification) (5 hrs)
   2. Finish [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Continue [CS50 Week 11](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
@@ -544,7 +544,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 46
+####Week 46
   1. Complete [Free Code Camp REACT](https://www.freecodecamp.com/map#collapseData-Visualization-Certification)
   2. [O'Reilly Data Visualization](http://shop.oreilly.com/category/learning-path/data-visualization.do)
   3. Continue [CS50 Week 11](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -552,7 +552,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 47
+####Week 47
   1. Complete [Free Code Camp D3](https://www.freecodecamp.com/map#collapseData-Visualization-Certification) (5 hrs)
   2. [O'Reilly Data Visualization](http://shop.oreilly.com/category/learning-path/data-visualization.do)
   3. Continue [CS50 Week 12](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -560,7 +560,7 @@ Week 4 - The DOM, jQuery
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 48
+####Week 48
   1.
   2. [O'Reilly Data Visualization](http://shop.oreilly.com/category/learning-path/data-visualization.do)
   3. Continue [CS50 Week 12](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
@@ -615,7 +615,6 @@ Week 4 - The DOM, jQuery
     2.  
     3.
 
-    
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 55 -
@@ -649,23 +648,34 @@ Week 4 - The DOM, jQuery
     1. Elastic Box's [LAMP Stack Tutorial](https://elasticbox.com/documentation/sample-tutorials/lamp-stack)
     2.  
     3.
-  
-  ####Week 59
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 59
+    1.
+    2.  
+    3.
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 60
+    1.
+    2.  
+    3.
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 61 -
     1.
     2.  
     3.
   
-  ####Week 60
-    1.
-    2.  
-    3.
-  
-  ####Week 61 -
-    1.
-    2.  
-    3.
-  
-  ####Week 62 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 62 -
     1.
     2.  
     3.
@@ -681,7 +691,6 @@ Week 4 - The DOM, jQuery
     2.  
     3.
 
-    
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 64 -
@@ -744,7 +753,6 @@ Week 4 - The DOM, jQuery
     2.  
     3.
 
-    
 --------------------------------------------------------------------------------------------------------------------------------------    
 ####Week 81
     1.
@@ -758,7 +766,10 @@ Week 4 - The DOM, jQuery
     1.
     2.  
     3.
+
     
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 83
     1.
     2.  
@@ -768,21 +779,28 @@ Week 4 - The DOM, jQuery
 
 ###Month #17 - Interview Prep
 
-  ####Week 84
+####Week 84
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
   3.
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 85
+####Week 85
   1. [The Odin Project Applying to and Interviewing for Jobs](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
   3.
-  ####Week 86
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 86
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
   3. [Free Code Camp Mock Interviews] (https://www.freecodecamp.com/map#nested-collapse-mock-interviews) (10 hrs)
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 87
+####Week 87
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
   3. [Free Code Camp Mock Interviews] (https://www.freecodecamp.com/map#nested-collapse-mock-interviews) (10 hrs)
@@ -791,21 +809,28 @@ Week 4 - The DOM, jQuery
 
 ###Month #18 - Getting Hired
 
-  ####Week 84
+####Week 84
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
   3.
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 85
+####Week 85
   1. [The Odin Project Applying to and Interviewing for Jobs](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
   3.
-  ####Week 86
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 86
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
   3. [Free Code Camp Mock Interviews] (https://www.freecodecamp.com/map#nested-collapse-mock-interviews) (10 hrs)
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
-  ####Week 87
+####Week 87
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
   3. [Free Code Camp Mock Interviews] (https://www.freecodecamp.com/map#nested-collapse-mock-interviews) (10 hrs)
