@@ -3,7 +3,7 @@
 
 * This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer. It relies almost exclusively on free online resources, with the goal of quickly learning enough programming to be qualified for a junior full-stack developer position
 
-* This program requires a substantial commitment of 20-30 hours a week on average, and goes from May 2016 through October 2017. Read about my journey to full-stack programmer on my [Medium blog](https://medium.com/@strongdan/).
+* This program requires a substantial commitment of 20-30 hours a week on average, and goes from May 2016 through October 2017. Read about my journey to full-stack programmer on my [Medium blog](https://medium.com/@strongdan/). Month zero covers HTML, CSS and some Javascript, and is optional if you already have these skills
 
 * Based loosely on: (1) [The Web Standards Curriculum](https://www.w3.org/community/webed/wiki/Main_Page), (2) [Odin Project's Open Curriculum](https://github.com/TheOdinProject/curriculum), (3) [Degreed's Ultimate Guide to Becoming a Web Developer](http://blog.degreed.com/ultimate-diy-guide-to-becoming-a-web-developer/), as well as the structure of the resources themselves.
 
@@ -21,30 +21,31 @@ Basic Timeline:
 
 Module 1: Programming Fundamentals
 <ul>
-<li>May 2016 - Intro to Web Dev, Javascript Basics</li>
-<li>June 2016 - Javascript</li>
-<li>July 2016 - Python </li>
-<li>August 2016 - Ruby</li>
-<li>September 2016 - Ruby on Rails</li>
-<li>October 2016 - Algorithms</li>
+<li>April 2016 - Intro to Web Dev, Javascript Basics</li> 
+<li>May 2016 - Javascript</li>
+<li>June 2016 - Python</li>
+<li>July 2016 - Ruby</li>
+<li>August 2016 - Ruby on Rails</li>
+<li>September 2016 - Algorithms</li>
+<li>October 2016 - Databases and SQL</li>
 </ul>
 
 Module 2: Back-end Programming
 <ul>
-<li>November 2016 - Databases and SQL</li>
-<li>December 2016 - APIs and Frameworks</li>
-<li>January 2017 - Advanced Front-end</li>
-<li>February 2017 - Data Visualization</li>
-<li>March 2017 - Advanced Data Visualization</li>
-<li>April 2017 - PHP and Wordpress</li>
+<li>November 2016 - APIs and Frameworks</li>
+<li>December 2016 - Advanced Front-end</li>
+<li>January 2017 - Data Visualization</li>
+<li>February 2017 - Advanced Data Visualization</li>
+<li>March 2017 - PHP and Wordpress</li>
+<li>April 2017 - Agile Development</li>
 </ul>
 
 Module 3: Portfolio Development and Getting Hired
 <ul>
-<li>May 2017 - Agile Development</li>
+<li>May 2017 - Portfolio Projects</li>
 <li>June 2017 - Portfolio Projects</li>
 <li>July 2017 - Portfolio Projects</li>
-<li>August 2017 - Portfolio Projects</li>
+<li>August 2017 - Building a Freelance Business</li>
 <li>September 2017 - Interview Prep</li>
 <li>October 2017 - Getting Hired</li>
 </ul>
@@ -52,7 +53,7 @@ Module 3: Portfolio Development and Getting Hired
 Optional Specialization Sections:
 <ul>
   <li>Data Science and Data Visualization</li>
-    [Awesome Data Science Resources](https://github.com/okulbilisim/awesome-datascience)
+    * [Awesome Data Science Resources](https://github.com/okulbilisim/awesome-datascience)
   <li>iOS Development and Swift</li>
   <li>Android Development and Java</li>
 </ul>
@@ -100,7 +101,7 @@ Reading List:
 
 ##Detailed Curriculum:
 
-###Month #1: May - Introduction to Web Dev and The Structure of Web Pages
+###Month #0 - Introduction to Web Dev and The Structure of Web Pages
 ####HTML, CSS, Bootstrap and jQuery
   Read the following books:
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
@@ -160,7 +161,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #2 - June 2016: Programming Basics with Javascript
+###Month #1 - Programming Basics with Javascript
 ####Javascript and Chrome DevTools
   Read the following books
   <ol>
@@ -201,7 +202,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #3 - July 2016: Programming with Python
+###Month #2 - Programming with Python
 ####Continue with JS plus basic python
 
 ####Week 10 -
@@ -226,7 +227,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #4 - August: Intro to Ruby
+###Month #3 - Intro to Ruby
 ####Python, Ruby and Git
 
 ####Week 14
@@ -252,7 +253,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #5 - September 2016: Intro to Rails
+###Month #4 - Intro to Rails
 ####ROR and Ruby
 
 ####Week 18
@@ -282,7 +283,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #6 - October 2016: Algorithms
+###Month #5 - Algorithms
   Read the following:
   <ol>
     <li>[Full Stack Skills](https://generalassemb.ly/blog/7-essential-skills-full-stack-product-person/)</li>
@@ -313,7 +314,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #7 - November 2016: Databases
+###Month #6 - Databases
 ####MongoDB and Relational Databases
 
   ####Week 27
@@ -343,7 +344,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #8 - December 2016: Advanced Topics - APIs and Frameworks
+###Month #7 - Advanced Topics - APIs and Frameworks
   ####AngularJS, EspressJS and NodeJS
 
   ####Week 32 -
@@ -368,7 +369,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #9 - January 2017: Advanced Front-end
+###Month #8 - Advanced Front-end
 ####HTML5 and CSS3
 
   * Read [Learn to Code Advanced
@@ -399,7 +400,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #10 - February 2017: Data Visualization
+###Month #9 - Data Visualization
 ####
 
   ####Week 40
@@ -429,7 +430,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #11 - March 2017: More Data Visualization
+###Month #10 - More Data Visualization
 
   ####Week 45
   1. Complete [Free Code Camp SASS](https://www.freecodecamp.com/map#collapseData-Visualization-Certification) (5 hrs)
@@ -453,7 +454,7 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-###Month #12 - April 2017: PHP and Wordpress
+###Month #11 - PHP and Wordpress
   
   * Read [Easy WP Guide](http://easywpguide.com/)
   
@@ -479,7 +480,7 @@ Week 4 - The DOM, jQuery
     3.
 - - - -
 
-###Month #13 - May 2017: Agile Development
+###Month #12 - Agile Development
 
   ####Week 54
     1.
@@ -502,7 +503,7 @@ Week 4 - The DOM, jQuery
     3.
 - - - -  
 
-###Month #14 - June 2017: Getting Work as a Freelance Developer
+###Month #13 - Getting Work as a Freelance Developer
 ####Creating an Online Presence
 ####Finding Clients and Employers
 
@@ -535,7 +536,7 @@ Week 4 - The DOM, jQuery
       
 - - - -
 
-###Month #15 - July 2017: Projects
+###Month #14 - Projects
 
   ####Week 63
     1. Thinkster's [MEAN Stack tutorial](https://thinkster.io/mean-stack-tutorial)
@@ -557,7 +558,7 @@ Week 4 - The DOM, jQuery
       Project: [Build a MEAN Stack Google Maps App](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-i), [Build a Read-it-Later App](http://blog.madhukaraphatak.com/read-it-later-in-mean-part-1/)
 - - - -  
 
-###Month #16 - August 2017: Projects
+###Month #15 - Projects
 
   ####Week 67
     1.
@@ -578,7 +579,7 @@ Week 4 - The DOM, jQuery
     
 - - - -
 
-###Month #17 - September 2017: Interview Prep
+###Month #16 - Building a Freelance Business
 
   ####Week 80
     1.
@@ -602,7 +603,30 @@ Week 4 - The DOM, jQuery
     
 - - - -
 
-###Month #18 - October 2017: Getting Hired
+###Month #17 - Interview Prep
+
+  ####Week 84
+  1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
+  2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
+  3.
+
+  ####Week 85
+  1. [The Odin Project Applying to and Interviewing for Jobs](http://www.theodinproject.com/getting-hired-as-a-web-developer)
+  2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
+  3.
+  ####Week 86
+  1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
+  2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
+  3. [Free Code Camp Mock Interviews] (https://www.freecodecamp.com/map#nested-collapse-mock-interviews) (10 hrs)
+
+  ####Week 87
+  1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
+  2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (70 hrs)
+  3. [Free Code Camp Mock Interviews] (https://www.freecodecamp.com/map#nested-collapse-mock-interviews) (10 hrs)
+
+- - - - 
+
+###Month #18 - Getting Hired
 
   ####Week 84
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
