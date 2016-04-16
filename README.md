@@ -17,37 +17,37 @@
 
 - - - -
 
-Basic Timeline:
+##Basic Timeline:
 
-Module 1: Programming Fundamentals
+- [Module 1 - Programming Fundamentals](#Programming Fundamentals)
 <ul>
-<li>April 2016 - Intro to Web Dev, Javascript Basics</li> 
-<li>May 2016 - Javascript</li>
-<li>June 2016 - Python</li>
-<li>July 2016 - Ruby</li>
-<li>August 2016 - Ruby on Rails</li>
-<li>September 2016 - Algorithms</li>
-<li>October 2016 - Databases and SQL</li>
+  <li>April 2016 - Intro to Web Dev, Javascript Basics</li> 
+  <li>May 2016 - Javascript</li>
+  <li>June 2016 - Python</li>
+  <li>July 2016 - Ruby</li>
+  <li>August 2016 - Ruby on Rails</li>
+  <li>September 2016 - Algorithms</li>
+  <li>October 2016 - Databases and SQL</li>
 </ul>
 
-Module 2: Back-end Programming
+- [Module 1 - Programming Fundamentals](#Programming Fundamentals)
 <ul>
-<li>November 2016 - APIs and Frameworks</li>
-<li>December 2016 - Advanced Front-end</li>
-<li>January 2017 - Data Visualization</li>
-<li>February 2017 - Advanced Data Visualization</li>
-<li>March 2017 - PHP and Wordpress</li>
-<li>April 2017 - Agile Development</li>
+  <li>November 2016 - APIs and Frameworks</li>
+  <li>December 2016 - Advanced Front-end</li>
+  <li>January 2017 - Data Visualization</li>
+  <li>February 2017 - Advanced Data Visualization</li>
+  <li>March 2017 - PHP and Wordpress</li>
+  <li>April 2017 - Agile Development</li>
 </ul>
 
-Module 3: Portfolio Development and Getting Hired
+- [Module 3 - Portfolio Development and Getting Hired](#Portfolio Development)
 <ul>
-<li>May 2017 - Portfolio Projects</li>
-<li>June 2017 - Portfolio Projects</li>
-<li>July 2017 - Portfolio Projects</li>
-<li>August 2017 - Building a Freelance Business</li>
-<li>September 2017 - Interview Prep</li>
-<li>October 2017 - Getting Hired</li>
+  <li>May 2017 - Portfolio Projects</li>
+  <li>June 2017 - Portfolio Projects</li>
+  <li>July 2017 - Portfolio Projects</li>
+  <li>August 2017 - Building a Freelance Business</li>
+  <li>September 2017 - Interview Prep</li>
+  <li>October 2017 - Getting Hired</li>
 </ul>
 
 Optional Specialization Sections:
@@ -99,7 +99,11 @@ Reading List:
 
 - - - -
 
-##Detailed Curriculum:
+##Detailed Curriculum
+
+  ##Programming Fundamentals
+
+####Months 0-5
 
 ###Month #0 - Introduction to Web Dev and The Structure of Web Pages
 ####HTML, CSS, Bootstrap and jQuery
@@ -118,7 +122,8 @@ Week 1 - Intro to Web Dev
   
   4. Read [A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) and [Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)
 
-    Project 0: Create first HTML website with basic CSS style sheet
+    - Project 0: Create first HTML website with basic CSS style sheet
+    
 --------------------------------------------------------------------------------------------------------------------------------------
 Week 2 - Web Dev Fundamentals
 
@@ -130,7 +135,8 @@ Week 2 - Web Dev Fundamentals
   
   4. Read [What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript), [Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript), [Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices), and [Principles of Unobtrusive Javascript](https://www.w3.org/community/webed/wiki/The_principles_of_unobtrusive_JavaScript)
 
-    * Project 1: Create HTML and CSS templates
+    - Project 1: Create HTML and CSS templates
+    
 --------------------------------------------------------------------------------------------------------------------------------------
 Week 3 - Wev Dev Fundamentals 2: Computer Basics
 
@@ -144,7 +150,8 @@ Week 3 - Wev Dev Fundamentals 2: Computer Basics
   4. Read [Javscript Functions](https://www.w3.org/community/webed/wiki/JavaScript_functions), [Objects in Javascript](https://www.w3.org/community/webed/wiki/Objects_in_JavaScript), [Traversing the DOM](https://www.w3.org/community/webed/wiki/Traversing_the_DOM), and [Creating and Modifying HTML](https://www.w3.org/community/webed/wiki/Creating_and_modifying_HTML)
   
 
-    * Project 2: Create a Bootstrap website
+    - Project 2: Create a Bootstrap website
+    
 --------------------------------------------------------------------------------------------------------------------------------------
 Week 4 - The DOM, jQuery
 
@@ -157,7 +164,7 @@ Week 4 - The DOM, jQuery
   
   4. Read [Dynamic style - manipulating CSS with JavaScript](https://www.w3.org/community/webed/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript), [Handling Events with Javascript](https://www.w3.org/community/webed/wiki/Handling_events_with_JavaScript), [Javascript Animation](https://www.w3.org/community/webed/wiki/JavaScript_animation), and [Graceful Degredation vs Progressive Enhancement](https://www.w3.org/community/webed/wiki/Graceful_degredation_versus_progressive_enhancement)
 
-    * Project 3: Create a website with jQuery animation
+    - Project 3: Create a website with jQuery animation
 
 - - - -
 
@@ -174,6 +181,8 @@ Week 4 - The DOM, jQuery
   3. Complete [Free Code Camp Javascript Lingo](https://www.freecodecamp.com/map#nested-collapseJavaScriptLingo) (1 hr)
   4. Optional: [CodeYear Getting Started with Programming](https://www.codecademy.com/courses/4fa836e5996b00000302064a/resume?curriculum_id=4f4bdd96848740000300026a)
   5. Optional: [Code Year - FizzBuzz](https://www.codecademy.com/courses/4f08e38e9bced80001000e58/resume?curriculum_id=4f4bdd96848740000300026a)
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 6 - Developer Tools, Big O Notation
   1. Start [The Odin Project Events, Effects and Widgets](http://www.theodinproject.com/javascript-and-jquery)
@@ -183,16 +192,25 @@ Week 4 - The DOM, jQuery
   5. Optional: [Code Year Functions in JavaScript](https://www.codecademy.com/courses/4f065456d7df470003008456/resume?curriculum_id=4f4bdd96848740000300026a)
     [Code Year Intro to Objects I and II](
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 7 - JS Core Skills
   1. Start [The Odin Project Deeper into Javascript](http://www.theodinproject.com/javascript-and-jquery)
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (10 hrs) 
   3. Start [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
   4. 
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 8
   1. Start [The Odin Project Advanced Browser Work, Better Forms with jQuery and AJAX](http://www.theodinproject.com/javascript-and-jquery)
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (15 hrs)
   3. Continue [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 9 -
   1. Complete [The Odin Project Finishing Up With Javascript](http://www.theodinproject.com/javascript-and-jquery)
@@ -210,15 +228,24 @@ Week 4 - The DOM, jQuery
   2. Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (10 hrs)
   3. Continue [CS50 Week 3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 11
   1. Start [Learn Python the Hard Way - Ch. 0-17](http://learnpythonthehardway.org/book/)
   2. Complete [Free Code Camp Object-Oriented and Functional Programming](https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables) (2 hrs)
   3. Continue [CS50 Week 3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 12
   1. Continue [Learn Python the Hard Way - Ch. 18-37](http://learnpythonthehardway.org/book/)
   2. Start [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 13
   1. Complete [Learn Python the Hard Way - Ch. 38-52](http://learnpythonthehardway.org/book/)
@@ -236,21 +263,31 @@ Week 4 - The DOM, jQuery
   3. Complete [Intro to Flask](http://flaskbook.com/#flaskintro)
   4 Start [Open Tech School's Python Flask](http://opentechschool.github.io/python-flask/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 15 -
   1. Start [The Odin Project Intermediate Ruby](http://www.theodinproject.com/ruby-programming)
   2. Complete [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (15 hrs)
   3. Complete [Open Tech School's Python Flask](http://opentechschool.github.io/python-flask/)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 16 -
   1. Start [The Odin Project Ruby on the Web, CS, RSpect, Git](http://www.theodinproject.com/ruby-programming)
   2. Start [Free Code Camp JSON, APIs and AJAX](https://www.freecodecamp.com/map#nested-collapseJSONAPIsandAjax) (2 hrs)
   3. Start [Writing your first Django App](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 17 -
   1. Complete [Odin Project Ruby Conclusion](http://www.theodinproject.com/ruby-programming)
   2. Start [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
   3. Complete [Writing your first Django App](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
 
+    
 - - - -
 
 ###Month #4 - Intro to Rails
@@ -261,20 +298,32 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
   3. Continue [CS50 Week 5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 19
   1. Complete [The Odin Project Routes, Views, Controllers and Assets](http://www.theodinproject.com/ruby-on-rails)
   2.  
   3. Continue [CS50 Week 5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 20 -
   1. Complete [The Odin Project Databases and Active Record](http://www.theodinproject.com/ruby-on-rails)
   2.  
   3. Continue [CS50 Week 5/6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
 ####Week 21 -
   1. Complete [The Odin Project Forms and Authentication](http://www.theodinproject.com/ruby-on-rails)
   2.  
   3. Continue [CS50 Week 6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 22 -
   1. Complete [The Odin Project Advanced Forms and Active Record](http://www.theodinproject.com/ruby-on-rails)
@@ -288,25 +337,35 @@ Week 4 - The DOM, jQuery
   <ol>
     <li>[Full Stack Skills](https://generalassemb.ly/blog/7-essential-skills-full-stack-product-person/)</li>
   </ol>
-  ####Week 23 - Other Important Things to Know
+
+####Week 23 - Other Important Things to Know
   1. Complete [The Odin Project APIs, Mailers and Advanced Topics](http://www.theodinproject.com/ruby-on-rails)
   2. Complete [Udacity CS101 - Intro to Computer Science](https://www.udacity.com/course/cs101) (20-25 hrs)
   3. Linux and Unix
   4. Servers
 
-  ####Week 24 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 24 -
   1. The Command Line
   2. Read [Udacity's Bridge Material Between CS101 and CS253](https://www.udacity.com/wiki/cs253/bridge_cs101)
   3. SEO
   4. Web Servers
 
-  ####Week 25 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 25 -
   1. Github and Version Control
   2. Google Analytics
   3. UI/UX
   4. Agile
 
-  ####Week 26 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 26 -
   1. Web Servers
   2. Testing
   3. Networks
@@ -322,20 +381,32 @@ Week 4 - The DOM, jQuery
   2. Start [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 28
   1. Complete [Zetcode's MySQL Tutorial](http://zetcode.com/databases/mysqltutorial/) (3-5 hrs)
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
   ####Week 29
   1.
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)    
   3. Continue [CS50 Week 7/8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 30
   1.
   2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
   ####Week 31
   1.
@@ -352,16 +423,25 @@ Week 4 - The DOM, jQuery
   2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
   3. [Codecademy APIs](https://www.codecademy.com/apis)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 33 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
   3. [Codecademy APIs](https://www.codecademy.com/apis)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
   ####Week 34 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
   3. [Codecademy APIs](https://www.codecademy.com/apis)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+  
   ####Week 35 -
   1.
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
@@ -375,21 +455,33 @@ Week 4 - The DOM, jQuery
   * Read [Learn to Code Advanced
   HTML & CSS](http://learn.shayhowe.com/advanced-html-css/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 36
   1. [Scalable Vector Graphics](https://www.w3.org/Graphics/SVG/About.html)
   2. Code School's [You, Me and SVG](http://campus.codeschool.com/courses/you-me-svg/contents)
   3. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Continue [CS50 Week 9](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 37
   1. [The Mobile Web](https://www.w3.org/community/webed/wiki/Introduction_to_mobile_web)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Continue [CS50 Week 9](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 38
   1. [Writing for the Web](https://www.w3.org/community/webed/wiki/Interact/Writing_for_the_Web)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Continue [CS50 Week 10](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
   ####Week 39
   1. [Digital Design Production](https://www.w3.org/community/webed/wiki/Interact/Digital_Design_Production)
@@ -408,20 +500,32 @@ Week 4 - The DOM, jQuery
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. 
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 41 -
   1. Complete [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
   ####Week 42 -
   1. Start [Codecademy AngularJS](https://www.codecademy.com/learn/learn-angularjs)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)  
   3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+  
   ####Week 43 -
   1. Complete [Codecademy AngularJS](https://www.codecademy.com/learn/learn-angularjs)
   2. Start [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Complete [Codecademy API Project](https://www.codecademy.com/apis)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
   ####Week 44 -
   1.
@@ -437,15 +541,24 @@ Week 4 - The DOM, jQuery
   2. Finish [Free Code Camp Advanced Front-End Projects](https://www.freecodecamp.com/map#nested-collapseAdvancedFrontEndDevelopmentProjects)(150 hrs)
   3. Continue [CS50 Week 11](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 46
   1. Complete [Free Code Camp REACT](https://www.freecodecamp.com/map#collapseData-Visualization-Certification)
   2. [O'Reilly Data Visualization](http://shop.oreilly.com/category/learning-path/data-visualization.do)
   3. Continue [CS50 Week 11](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
   ####Week 47
   1. Complete [Free Code Camp D3](https://www.freecodecamp.com/map#collapseData-Visualization-Certification) (5 hrs)
   2. [O'Reilly Data Visualization](http://shop.oreilly.com/category/learning-path/data-visualization.do)
   3. Continue [CS50 Week 12](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
 
   ####Week 48
   1.
@@ -458,56 +571,81 @@ Week 4 - The DOM, jQuery
   
   * Read [Easy WP Guide](http://easywpguide.com/)
   
-  ####Week 49
+####Week 49
     1. Cloud Computing with AWS
     2.[WP Apprentice Beginner Course](http://wpapprentice.com/)
     3.
-  ####Week 50 -
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 50 -
     1. Create Your Own Web Server
     2. Data Camp's [Data Science with Python](https://campus.datacamp.com/courses/intro-to-python-for-data-science/)
     3.
-  ####Week 51 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 51 -
     1.
     2.  
     3.
-  ####Week 52 -
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 52 -
     1.
     2.  
     3.
-  ####Week 53 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 53 -
     1.
     2.  
     3.
+
 - - - -
 
 ###Month #12 - Agile Development
 
-  ####Week 54
+####Week 54
     1.
     2.  
     3.
-  
-  ####Week 55 -
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 55 -
     1.
     2.  
     3.
-  
-  ####Week 56 -
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 56 -
     1.
     2.  
     3.
-  
-  ####Week 57 -
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 57 -
     1.
     2.  
     3.
+
 - - - -  
 
 ###Month #13 - Getting Work as a Freelance Developer
 ####Creating an Online Presence
 ####Finding Clients and Employers
 
-  ####Week 58
+####Week 58
     1. Elastic Box's [LAMP Stack Tutorial](https://elasticbox.com/documentation/sample-tutorials/lamp-stack)
     2.  
     3.
@@ -532,47 +670,67 @@ Week 4 - The DOM, jQuery
     2.  
     3.
     
-      Project: Build a LAMP stack app
+    - Project: Build a LAMP stack app
       
 - - - -
 
 ###Month #14 - Projects
 
-  ####Week 63
+####Week 63
     1. Thinkster's [MEAN Stack tutorial](https://thinkster.io/mean-stack-tutorial)
     2.  
     3.
-  ####Week 64 -
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 64 -
     1.
     2.  
     3.
-  ####Week 65 -
-    1.
-    2.  
-    3.
-  ####Week 66 -
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 65 -
     1.
     2.  
     3.
     
-      Project: [Build a MEAN Stack Google Maps App](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-i), [Build a Read-it-Later App](http://blog.madhukaraphatak.com/read-it-later-in-mean-part-1/)
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 66 -
+    1.
+    2.  
+    3.
+    
+    - Projects: [Build a MEAN Stack Google Maps App](https://scotch.io/tutorials/making-mean-apps-with-google-maps-part-i), [Build a Read-it-Later App](http://blog.madhukaraphatak.com/read-it-later-in-mean-part-1/)
 - - - -  
 
 ###Month #15 - Projects
 
-  ####Week 67
+####Week 67
     1.
     2.  
     3.
-  ####Week 68 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 68 -
     1.
     2.  
     3.
-  ####Week 69 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 69 -
     1.
     2.  
     3.
-  ####Week 70 -
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 70 -
     1.
     2.  
     3.
@@ -581,22 +739,27 @@ Week 4 - The DOM, jQuery
 
 ###Month #16 - Building a Freelance Business
 
-  ####Week 80
+####Week 80
+    1.
+    2.  
+    3.
+
+    
+--------------------------------------------------------------------------------------------------------------------------------------    
+####Week 81
     1.
     2.  
     3.
     
-  ####Week 81
+    
+--------------------------------------------------------------------------------------------------------------------------------------
+
+####Week 82
     1.
     2.  
     3.
     
-  ####Week 82
-    1.
-    2.  
-    3.
-    
-  ####Week 83
+####Week 83
     1.
     2.  
     3.
