@@ -94,6 +94,7 @@ Reading List:
   * [Learn.co Introductory Materials](https://learn.co/)
   * [Hack Reactor Prework](http://richardkho.com/pre-course-work/)
   * [Learn.co Web Dev Fundamentals](https://learn.co/tracks/web-development-fundamentals)
+  * [Google CS Education](https://www.google.com/edu/cs/index.html)
 
 - - - -
 
