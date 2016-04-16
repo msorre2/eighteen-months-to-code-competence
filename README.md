@@ -79,6 +79,8 @@ Reading List:
 
 ##Resources
   ###Curriculum Utilizes the following online resources:
+  
+  
   * [Open Source Society University CS Bachelor's Degree](https://github.com/open-source-society/computer-science)
   * [Viking Code School Preparatory Materials](http://www.vikingcodeschool.com/prep)
   * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
@@ -97,6 +99,7 @@ Reading List:
   * [Hack Reactor Prework](http://richardkho.com/pre-course-work/)
   * [Learn.co Web Dev Fundamentals](https://learn.co/tracks/web-development-fundamentals)
   * [Google CS Education](https://www.google.com/edu/cs/index.html)
+  * [MongoDB University](https://university.mongodb.com/)
 
 - - - -
 
@@ -122,6 +125,8 @@ Week 1 - Intro to Web Dev
   3. Start [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (2 hrs)
   
   4. Read [A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) and [Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)
+  5. The Command Line
+
 
     - Project 0: Create first HTML website with basic CSS style sheet
     
@@ -340,7 +345,7 @@ Week 4 - The DOM, jQuery
   </ol>
 
 ####Week 23 - Other Important Things to Know
-  1. Complete [The Odin Project APIs, Mailers and Advanced Topics](http://www.theodinproject.com/ruby-on-rails)
+  1. Start [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (10 hrs)
   2. Complete [Udacity CS101 - Intro to Computer Science](https://www.udacity.com/course/cs101) (20-25 hrs)
   3. Linux and Unix
   4. Servers
@@ -349,7 +354,8 @@ Week 4 - The DOM, jQuery
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 24 -
-  1. The Command Line
+  1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (10 hrs)
+  2. 
   2. Read [Udacity's Bridge Material Between CS101 and CS253](https://www.udacity.com/wiki/cs253/bridge_cs101)
   3. SEO
   4. Web Servers
@@ -358,7 +364,8 @@ Week 4 - The DOM, jQuery
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 25 -
-  1. Github and Version Control
+  1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (15 hrs) 
+  2. Github and Version Control
   2. Google Analytics
   3. UI/UX
   4. Agile
@@ -367,7 +374,8 @@ Week 4 - The DOM, jQuery
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 26 -
-  1. Web Servers
+  1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (15 hrs) 
+  2. Web Servers
   2. Testing
   3. Networks
   4. Common Algorithms
@@ -379,40 +387,45 @@ Week 4 - The DOM, jQuery
 
 ####Week 27
   1. Complete [Lesson 3 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48756013/m-48712316) (2 hrs)
-  2. Start [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)
+  2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. Start [M101P: MongoDB for Developers Week 1](https://university.mongodb.com/courses/M101P/about) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 28
   1. Complete [Zetcode's MySQL Tutorial](http://zetcode.com/databases/mysqltutorial/) (3-5 hrs)
-  2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
+  2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. [M101P: MongoDB for Developers Week 2](https://university.mongodb.com/courses/M101P/about) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 29
   1.
-  2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)    
+  2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7/8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. [M101P: MongoDB for Developers Week 3](https://university.mongodb.com/courses/M101P/about) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 30
   1.
-  2. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
+  2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. [M101P: MongoDB for Developers Week 4](https://university.mongodb.com/courses/M101P/about) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 31
   1.
-  2. Finish [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (50 hrs)  
+  2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. [M101P: MongoDB for Developers Week 5](https://university.mongodb.com/courses/M101P/about) (5 hrs)
 
 - - - -
 
@@ -421,31 +434,35 @@ Week 4 - The DOM, jQuery
 
 ####Week 32 -
   1. Complete [Zapier Intro to APIs](https://zapier.com/learn/apis/)
-  2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
+  2. 
   3. [Codecademy APIs](https://www.codecademy.com/apis)
+  4. Complete [The Odin Project APIs, Mailers and Advanced Topics](http://www.theodinproject.com/ruby-on-rails)
+  5. [M101P: MongoDB for Developers Week 6](https://university.mongodb.com/courses/M101P/about) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 33 -
   1.
-  2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)
+  2. 
   3. [Codecademy APIs](https://www.codecademy.com/apis)
+  4. [M101P: MongoDB for Developers Week 6](https://university.mongodb.com/courses/M101P/about) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 34 -
   1.
-  2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
+  2.   
   3. [Codecademy APIs](https://www.codecademy.com/apis)
+  4. Complete [M101P: MongoDB for Developers Week 7](https://university.mongodb.com/courses/M101P/about) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
   
 ####Week 35 -
   1.
-  2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (50 hrs)  
+  2.  
   3. [Codecademy APIs](https://www.codecademy.com/apis)
 
 - - - -
