@@ -19,36 +19,32 @@
 
 ##Basic Timeline:
 
-- Module 1 - Programming Fundamentals
-<ul>
-  <li>April 2016 - [Intro to Web Dev, Javascript Basics](#Intro to Web Dev, Javascript Basics)</li> 
-  <li>May 2016 - [Javascript](#Javascript)</li>
-  <li>June 2016 - [Python](#Python</li>
-  <li>July 2016 - [Ruby](#Ruby)</li>
-  <li>August 2016 - [Ruby on Rails](#Ruby on Rails)</li>
-  <li>September 2016 - [Algorithms](#Algorithms)</li>
-  <li>October 2016 - [Databases and SQL](#Databases and SQL)</li>
-</ul>
+### Module 1 - Programming Fundamentals
+  - April 2016 - [Intro to Web Dev, Javascript Basics](#Intro to Web Dev, Javascript Basics)</li> 
+  - May 2016 - [Javascript](#Javascript)</li>
+  - June 2016 - [Python](#Python</li>
+  - July 2016 - [Ruby](#Ruby)</li>
+  - August 2016 - [Ruby on Rails](#Ruby on Rails)</li>
+  - September 2016 - [Algorithms](#Algorithms)</li>
+  - October 2016 - [Databases and SQL](#Databases and SQL)</li>
 
-- [Module 2 - Advanced Concepts]
-<ul>
-  <li>November 2016 - [APIs and Frameworks](#APIs and Frameworks)</li>
-  <li>December 2016 - [Advanced Front-end](#Advanced Front-end)</li>
-  <li>January 2017 - [Data Visualization](#Data Visualization</li>
-  <li>February 2017 - [Advanced Data Visualization](#Advanced Data Visualization)</li>
-  <li>March 2017 - [PHP and Wordpress](#PHP and Wordpress)</li>
-  <li>April 2017 - [Agile Development](#Agile Development)</li>
-</ul>
 
-- [Module 3 - Portfolio Development and Getting Hired]
-<ul>
-  <li>May 2017 - Portfolio Projects</li>
-  <li>June 2017 - Portfolio Projects</li>
-  <li>July 2017 - Portfolio Projects</li>
-  <li>August 2017 - [Building a Freelance Business](#Building a Freelance Business)</li>
-  <li>September 2017 - [Interview Prep](#Interview Prep)</li>
-  <li>October 2017 - [Getting Hired](#Getting Hired)</li>
-</ul>
+### Module 2 - Advanced Concepts
+  - November 2016 - [APIs and Frameworks](#APIs and Frameworks)</li>
+  - December 2016 - [Advanced Front-end](#Advanced Front-end)</li>
+  - January 2017 - [Data Visualization](#Data Visualization</li>
+  - February 2017 - [Advanced Data Visualization](#Advanced Data Visualization)</li>
+  - March 2017 - [PHP and Wordpress](#PHP and Wordpress)</li>
+  - April 2017 - [Agile Development](#Agile Development)</li>
+
+### Module 3 - Portfolio Development and Getting Hired
+
+  - May 2017 - Portfolio Projects</li>
+  - June 2017 - Portfolio Projects</li>
+  - July 2017 - Portfolio Projects</li>
+  - August 2017 - [Building a Freelance Business](#Building a Freelance Business)</li>
+  - September 2017 - [Interview Prep](#Interview Prep)</li>
+  - October 2017 - [Getting Hired](#Getting Hired)</li>
 
 Optional Specialization Sections:
 <ul>
