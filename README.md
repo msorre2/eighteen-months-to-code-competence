@@ -30,7 +30,7 @@
   <li>October 2016 - Databases and SQL</li>
 </ul>
 
-- [Module 2 - Back-end Programming](#Back-end Programming)
+- [Module 2 - Advanced Programming](#Back-end Programming)
 <ul>
   <li>November 2016 - APIs and Frameworks</li>
   <li>December 2016 - Advanced Front-end</li>
@@ -126,6 +126,7 @@ Week 1 - Intro to Web Dev
   3. Start [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (2 hrs)
   
   4. Read [A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) and [Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)
+  5. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr)
   5. The Command Line
 
 
@@ -140,7 +141,9 @@ Week 2 - Web Dev Fundamentals
 
   3. Continue [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  4. Read [What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript), [Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript), [Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices), and [Principles of Unobtrusive Javascript](https://www.w3.org/community/webed/wiki/The_principles_of_unobtrusive_JavaScript)
+  4. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr)
+  
+  5. Read [What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript), [Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript), [Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices), and [Principles of Unobtrusive Javascript](https://www.w3.org/community/webed/wiki/The_principles_of_unobtrusive_JavaScript)
 
     - Project 1: Create HTML and CSS templates
     
@@ -154,8 +157,9 @@ Week 3 - Wev Dev Fundamentals 2: Computer Basics
   3. Start [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
       - Linux. C. Compiling. Libraries. Types. Standard output.
   
-  4. Read [Javscript Functions](https://www.w3.org/community/webed/wiki/JavaScript_functions), [Objects in Javascript](https://www.w3.org/community/webed/wiki/Objects_in_JavaScript), [Traversing the DOM](https://www.w3.org/community/webed/wiki/Traversing_the_DOM), and [Creating and Modifying HTML](https://www.w3.org/community/webed/wiki/Creating_and_modifying_HTML)
+  4. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr) 
   
+  5. Read [Javscript Functions](https://www.w3.org/community/webed/wiki/JavaScript_functions), [Objects in Javascript](https://www.w3.org/community/webed/wiki/Objects_in_JavaScript), [Traversing the DOM](https://www.w3.org/community/webed/wiki/Traversing_the_DOM), and [Creating and Modifying HTML](https://www.w3.org/community/webed/wiki/Creating_and_modifying_HTML)
 
     - Project 2: Create a Bootstrap website
     
@@ -170,9 +174,11 @@ Week 4 - The DOM, jQuery
         - Linux. C. Compiling. Libraries. Types. Standard output.
   
   4. Read [Dynamic style - manipulating CSS with JavaScript](https://www.w3.org/community/webed/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript), [Handling Events with Javascript](https://www.w3.org/community/webed/wiki/Handling_events_with_JavaScript), [Javascript Animation](https://www.w3.org/community/webed/wiki/JavaScript_animation), and [Graceful Degredation vs Progressive Enhancement](https://www.w3.org/community/webed/wiki/Graceful_degredation_versus_progressive_enhancement)
+  
+  5. [Bento.io Front End](https://bento.io/tracks/front-end) (8 hrs)
 
     - Project 3: Create a website with jQuery animation
-
+    
 - - - -
 
 ###Month #1 - Programming Basics with Javascript
@@ -187,8 +193,8 @@ Week 4 - The DOM, jQuery
   2. Start [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (10 hrs)
   3. Complete [Free Code Camp Javascript Lingo](https://www.freecodecamp.com/map#nested-collapseJavaScriptLingo) (1 hr)
   4. Optional: [CodeYear Getting Started with Programming](https://www.codecademy.com/courses/4fa836e5996b00000302064a/resume?curriculum_id=4f4bdd96848740000300026a)
-  5. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-  5. Optional: [Code Year - FizzBuzz](https://www.codecademy.com/courses/4f08e38e9bced80001000e58/resume?curriculum_id=4f4bdd96848740000300026a)
+  5. [Bento.io Front End](https://bento.io/tracks/front-end) (8 hrs)
+  6 Optional: [Code Year - FizzBuzz](https://www.codecademy.com/courses/4f08e38e9bced80001000e58/resume?curriculum_id=4f4bdd96848740000300026a)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -197,7 +203,8 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (15 hrs)
   3. Complete [Free Code Camp Chrome Developer Tools](https://www.freecodecamp.com/map#nested-collapseChromeDeveloperTools) (1 hr)
   4. Complete [Free Code Camp Big O Notation](https://www.freecodecamp.com/map#nested-collapseBigONotation) (30 min)
-  5. Optional: [Code Year Functions in JavaScript](https://www.codecademy.com/courses/4f065456d7df470003008456/resume?curriculum_id=4f4bdd96848740000300026a)
+  5. [Bento.io Front End Continued](https://bento.io/tracks/front-end-continued) (10 hrs)
+  6. Optional: [Code Year Functions in JavaScript](https://www.codecademy.com/courses/4f065456d7df470003008456/resume?curriculum_id=4f4bdd96848740000300026a)
     [Code Year Intro to Objects I and II](
 
     
@@ -207,7 +214,7 @@ Week 4 - The DOM, jQuery
   1. Start [The Odin Project Deeper into Javascript](http://www.theodinproject.com/javascript-and-jquery)
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (10 hrs) 
   3. Start [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
-  4. 
+  4. [Bento.io Front End Continued](https://bento.io/tracks/front-end-continued) (10 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -216,7 +223,7 @@ Week 4 - The DOM, jQuery
   1. Start [The Odin Project Advanced Browser Work, Better Forms with jQuery and AJAX](http://www.theodinproject.com/javascript-and-jquery)
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (15 hrs)
   3. Continue [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
-  4. BerkeleyX [Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) (12 hrs)
+  4. [Bento.io Front End Continued](https://bento.io/tracks/front-end-continued) (10 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -275,6 +282,10 @@ Week 4 - The DOM, jQuery
 ###Month #3 - Intro to Ruby
 ####Python, Ruby and Git
 
+Read the following:
+  <ul>
+    <li>_[Ruby on Rails Tutorial](https://www.railstutorial.org/book)_</li>
+  </ul>
 ####Week 14
   1. Start [The Odin Project Basic Ruby](http://www.theodinproject.com/ruby-programming)
   2. Continue [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (10 hrs)
@@ -302,7 +313,7 @@ Week 4 - The DOM, jQuery
 
 ####Week 17 -
   1. Complete [Odin Project Ruby Conclusion](http://www.theodinproject.com/ruby-programming)
-  2. Start [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
+  2. Start [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   3. Complete [Writing your first Django App](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
 
     
@@ -313,7 +324,7 @@ Week 4 - The DOM, jQuery
 
 ####Week 18
   1. [The Odin Project Intro to Rails](http://www.theodinproject.com/ruby-on-rails)
-  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (100 hrs)
+  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   3. Continue [CS50 Week 5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
     
@@ -321,7 +332,7 @@ Week 4 - The DOM, jQuery
 
 ####Week 19
   1. Complete [The Odin Project Routes, Views, Controllers and Assets](http://www.theodinproject.com/ruby-on-rails)
-  2.  
+  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   3. Continue [CS50 Week 5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
     
@@ -329,7 +340,7 @@ Week 4 - The DOM, jQuery
 
 ####Week 20 -
   1. Complete [The Odin Project Databases and Active Record](http://www.theodinproject.com/ruby-on-rails)
-  2.  
+  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   3. Continue [CS50 Week 5/6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
     
@@ -337,7 +348,7 @@ Week 4 - The DOM, jQuery
 
 ####Week 21 -
   1. Complete [The Odin Project Forms and Authentication](http://www.theodinproject.com/ruby-on-rails)
-  2.  
+  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs) 
   3. Continue [CS50 Week 6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
     
@@ -345,7 +356,7 @@ Week 4 - The DOM, jQuery
 
 ####Week 22 -
   1. Complete [The Odin Project Advanced Forms and Active Record](http://www.theodinproject.com/ruby-on-rails)
-  2.  
+  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   3. Continue [CS50 Week 6](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
 
 - - - -
@@ -361,36 +372,39 @@ Week 4 - The DOM, jQuery
   2. Complete [Udacity CS101 - Intro to Computer Science](https://www.udacity.com/course/cs101) (20-25 hrs)
   3. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
   4. [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+  5. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
+  6. [Bento Back End](https://bento.io/tracks/back-end) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 24 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (10 hrs)
-  2. 
+  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   3. Read [Udacity's Bridge Material Between CS101 and CS253](https://www.udacity.com/wiki/cs253/bridge_cs101)
   4. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
   5. [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-
+  6. [Bento Back End](https://bento.io/tracks/back-end) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 25 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (15 hrs) 
-  2. 
+  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   3. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
   4. [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-
+  5. [Bento Back End](https://bento.io/tracks/back-end) (5 hrs)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 26 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (15 hrs) 
-  2. 
+  2. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   3. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
   4. [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-  
+  5. [Bento Back End](https://bento.io/tracks/back-end) (5 hrs)
+
 
 - - - -
 
@@ -402,7 +416,8 @@ Week 4 - The DOM, jQuery
   2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. Start [M101P: MongoDB for Developers Week 1](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Bento.io Databases](https://bento.io/tracks/databases)
+  5. [Bento Back End](https://bento.io/tracks/back-end) (5 hrs)
+  6. [Bento.io Databases](https://bento.io/tracks/databases) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -412,7 +427,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 2](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Bento.io Databases](https://bento.io/tracks/databases)
+  5. [Bento.io Databases](https://bento.io/tracks/databases) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -422,7 +437,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7/8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 3](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Bento.io Databases](https://bento.io/tracks/databases)
+  5. [Bento.io Databases](https://bento.io/tracks/databases) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -432,7 +447,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 4](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Bento.io Databases](https://bento.io/tracks/databases)
+  5. [Bento.io Databases](https://bento.io/tracks/databases) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -442,7 +457,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 5](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Bento.io Databases](https://bento.io/tracks/databases)
+  5. [Bento.io Databases](https://bento.io/tracks/databases) (10 hrs)
 
 - - - -
 
