@@ -599,7 +599,7 @@ Week 4 - The DOM, jQuery
   
 ####Week 49
     1. Cloud Computing with AWS
-    2.[WP Apprentice Beginner Course](http://wpapprentice.com/)
+    2. [WP Apprentice Beginner Course](http://wpapprentice.com/)
     3.
 
     
@@ -745,7 +745,7 @@ Week 4 - The DOM, jQuery
 ###Month #15 - Projects
 
 ####Week 67
-    1.
+    1. [Skillcrush 5 Portfolio Sites](http://skillcrush.com/2014/08/11/portfolio-advice-2/)
     2.  
     3.
     
