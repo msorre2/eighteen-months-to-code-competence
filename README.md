@@ -73,28 +73,31 @@ Reading List:
 - - - -
 
 ##Resources
-  ###Curriculum Utilizes the following online resources:
-  
-  * [Open Source Society University CS Bachelor's Degree](https://github.com/open-source-society/computer-science)
-  * [Viking Code School Preparatory Materials](http://www.vikingcodeschool.com/prep)
-  * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
-  * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
-  * [Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
-  * [The Odin Project](http://www.theodinproject.com/courses?ref=home)
-  * [Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)
-  * [Codecademy Code Year](https://www.codecademy.com/en/tracks/code-year)
-  * [HarvardX CS50 - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-  * [Makersquare Preparatory Materials](http://www.makersquare.com/admissions#resources)
+###Curriculum Utilizes the following online resources:
+
+- Coding Camp Prework:
   * [Code Fellows 201 Prework](https://github.com/codefellows/code-201-prework)
   * [General Assembly Prework](http://fundamentals.generalassemb.ly/)
   * [Codeup Prework](http://prework.codeup.com/)
   * [Flatiron School Prework](https://github.com/flatiron-school/prework.flatironschool.com)
   * [Learn.co Introductory Materials](https://learn.co/)
-  * [Hack Reactor Prework](http://richardkho.com/pre-course-work/)
-  * [Learn.co Web Dev Fundamentals](https://learn.co/tracks/web-development-fundamentals)
+  * [Hack Reactor Prework](http://richardkho.com/pre-course-work/)  
+  * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
+  * [Viking Code School Preparatory Materials](http://www.vikingcodeschool.com/prep)
+  * [Makersquare Preparatory Materials](http://www.makersquare.com/admissions#resources)
+- Online CS Curricula:
+  * [Open Source Society University CS Bachelor's Degree](https://github.com/open-source-society/computer-science)
+  * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
+  * [HarvardX CS50 - Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
   * [Google CS Education](https://www.google.com/edu/cs/index.html)
-  * [MongoDB University](https://university.mongodb.com/)
+- Free Online Web Dev Programs:
   * [Bento.io Learning Tracks](https://bento.io/tracks#)
+  * [Free Code Camp](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)
+  * [The Odin Project](http://www.theodinproject.com/courses?ref=home)
+  * [Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)
+  * [Codecademy Code Year](https://www.codecademy.com/en/tracks/code-year)
+  * [Learn.co Web Dev Fundamentals](https://learn.co/tracks/web-development-fundamentals)
+  * [MongoDB University](https://university.mongodb.com/)
 
 - - - -
 ##Detailed Curriculum
