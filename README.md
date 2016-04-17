@@ -11,7 +11,7 @@
 
 * Covers HTML, CSS, Javascript, Python, Ruby, Rails Framework, PHP, and SQL languages
 
-* Agile development, Bootstrap, Wordpress development, APIs, Javascript Frameworks
+* Agile development, Bootstrap, Wordpress development, APIs, Javascript Frameworks, UI/UX, Google Analytics, Github and version control, web servers, networks, common algorithms, SEO
 
 * Briefly covered are: Illustrator, Photoshop, FTP, Bug Testing, Media Queries, jQuery Plugins
 
@@ -71,7 +71,7 @@ Projects include:
 
 Reading List:
   1. _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
-  2. _[Learning to Program by Steven Foote](URL)_
+  2. _[Learning to Program by Steven Foote](https://www.safaribooksonline.com/library/view/learning-to-program/9780133795257/)_
   3. _[Javascript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)_
   4. More...
 
@@ -186,6 +186,7 @@ Week 4 - The DOM, jQuery
   2. Start [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (10 hrs)
   3. Complete [Free Code Camp Javascript Lingo](https://www.freecodecamp.com/map#nested-collapseJavaScriptLingo) (1 hr)
   4. Optional: [CodeYear Getting Started with Programming](https://www.codecademy.com/courses/4fa836e5996b00000302064a/resume?curriculum_id=4f4bdd96848740000300026a)
+  5. [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
   5. Optional: [Code Year - FizzBuzz](https://www.codecademy.com/courses/4f08e38e9bced80001000e58/resume?curriculum_id=4f4bdd96848740000300026a)
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -214,6 +215,7 @@ Week 4 - The DOM, jQuery
   1. Start [The Odin Project Advanced Browser Work, Better Forms with jQuery and AJAX](http://www.theodinproject.com/javascript-and-jquery)
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (15 hrs)
   3. Continue [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
+  4. BerkeleyX [Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) (12 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -222,6 +224,7 @@ Week 4 - The DOM, jQuery
   1. Complete [The Odin Project Finishing Up With Javascript](http://www.theodinproject.com/javascript-and-jquery)
   2. Complete [Node School JS Tutorials](http://nodeschool.io/#workshoppers)
   3. Finish [Beginning Programming with JavaScript](http://shop.oreilly.com/product/0636920036272.do)
+  4. BerkeleyX [Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) (12 hrs)
   4. If necessary, complete [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
 
 - - - -
@@ -233,6 +236,8 @@ Week 4 - The DOM, jQuery
   1. Complete [Problem Set 1 of CS 253 - Web Development on Udacity](https://www.udacity.com/course/viewer#!/c-cs253/l-48230541/e-48689147/m-48727384)
   2. Complete [Free Code Camp Basic Javascript](https://www.freecodecamp.com/challenges/comment-your-javascript-code) (10 hrs)
   3. Continue [CS50 Week 3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7#ct-read-review-widget) (15 hrs)
+  4. BerkeleyX [Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) (12 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -241,6 +246,8 @@ Week 4 - The DOM, jQuery
   1. Start [Learn Python the Hard Way - Ch. 0-17](http://learnpythonthehardway.org/book/)
   2. Complete [Free Code Camp Object-Oriented and Functional Programming](https://www.freecodecamp.com/challenges/declare-javascript-objects-as-variables) (2 hrs)
   3. Continue [CS50 Week 3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. BerkeleyX [Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) (12 hrs)
+  5. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7#ct-read-review-widget) (15 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -249,6 +256,8 @@ Week 4 - The DOM, jQuery
   1. Continue [Learn Python the Hard Way - Ch. 18-37](http://learnpythonthehardway.org/book/)
   2. Start [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. BerkeleyX [Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x)  (12 hrs)
+  5. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7#ct-read-review-widget) (15 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -257,6 +266,8 @@ Week 4 - The DOM, jQuery
   1. Complete [Learn Python the Hard Way - Ch. 38-52](http://learnpythonthehardway.org/book/)
   2. Continue [Free Code Camp Basic Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseBasicAlgorithmScripting) (15 hrs)
   3. Continue [CS50 Week 4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. BerkeleyX [Agile Development Using Ruby on Rails](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x) (12 hrs)
+  5. [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7#ct-read-review-widget) (15 hrs)
 
 - - - -
 
@@ -356,29 +367,23 @@ Week 4 - The DOM, jQuery
 ####Week 24 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (10 hrs)
   2. 
-  2. Read [Udacity's Bridge Material Between CS101 and CS253](https://www.udacity.com/wiki/cs253/bridge_cs101)
-  3. SEO
-  4. Web Servers
+  3. Read [Udacity's Bridge Material Between CS101 and CS253](https://www.udacity.com/wiki/cs253/bridge_cs101)
+
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 25 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (15 hrs) 
-  2. Github and Version Control
-  2. Google Analytics
-  3. UI/UX
-  4. Agile
+  2. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 26 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (15 hrs) 
-  2. Web Servers
-  2. Testing
-  3. Networks
-  4. Common Algorithms
+  2. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
+  
 
 - - - -
 
@@ -390,6 +395,7 @@ Week 4 - The DOM, jQuery
   2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. Start [M101P: MongoDB for Developers Week 1](https://university.mongodb.com/courses/M101P/about) (5 hrs)
+  5. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -399,6 +405,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 2](https://university.mongodb.com/courses/M101P/about) (5 hrs)
+  5. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -408,6 +415,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7/8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 3](https://university.mongodb.com/courses/M101P/about) (5 hrs)
+  5. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -417,6 +425,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 4](https://university.mongodb.com/courses/M101P/about) (5 hrs)
+  5. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
