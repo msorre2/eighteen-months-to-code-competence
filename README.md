@@ -11,7 +11,7 @@
 
 * Covers HTML, CSS, Javascript, Python, Ruby, Rails Framework, PHP, and SQL languages
 
-* Agile development, Bootstrap, Wordpress development, APIs, Javascript Frameworks, UI/UX, Google Analytics, Github and version control, web servers, networks, common algorithms, SEO
+* Agile development, Bootstrap, Wordpress development, APIs, Javascript Frameworks, UI/UX, Google Analytics, Github and version control, web servers, networks, common algorithms, SEO, Linux and Unix
 
 * Briefly covered are: Illustrator, Photoshop, FTP, Bug Testing, Media Queries, jQuery Plugins
 
@@ -359,8 +359,8 @@ Week 4 - The DOM, jQuery
 ####Week 23 - Other Important Things to Know
   1. Start [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (10 hrs)
   2. Complete [Udacity CS101 - Intro to Computer Science](https://www.udacity.com/course/cs101) (20-25 hrs)
-  3. Linux and Unix
-  4. Servers
+  3. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
+  4. [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -369,6 +369,8 @@ Week 4 - The DOM, jQuery
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (10 hrs)
   2. 
   3. Read [Udacity's Bridge Material Between CS101 and CS253](https://www.udacity.com/wiki/cs253/bridge_cs101)
+  4. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
+  5. [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 
     
@@ -376,14 +378,18 @@ Week 4 - The DOM, jQuery
 
 ####Week 25 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (15 hrs) 
-  2. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
+  2. 
+  3. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
+  4. [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 26 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (15 hrs) 
-  2. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
+  2. 
+  3. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html#)
+  4. [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
   
 
 - - - -
@@ -396,7 +402,7 @@ Week 4 - The DOM, jQuery
   2. Start [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. Start [M101P: MongoDB for Developers Week 1](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
+  5. [Bento.io Databases](https://bento.io/tracks/databases)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -406,7 +412,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 2](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
+  5. [Bento.io Databases](https://bento.io/tracks/databases)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -416,7 +422,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 7/8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 3](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
+  5. [Bento.io Databases](https://bento.io/tracks/databases)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -426,7 +432,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 4](https://university.mongodb.com/courses/M101P/about) (5 hrs)
-  5. [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x) (12 hrs)
+  5. [Bento.io Databases](https://bento.io/tracks/databases)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -436,6 +442,7 @@ Week 4 - The DOM, jQuery
   2. Continue [Free Code Camp Advanced Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseAdvancedAlgorithmScripting) (10 hrs)
   3. Continue [CS50 Week 8](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   4. [M101P: MongoDB for Developers Week 5](https://university.mongodb.com/courses/M101P/about) (5 hrs)
+  5. [Bento.io Databases](https://bento.io/tracks/databases)
 
 - - - -
 
