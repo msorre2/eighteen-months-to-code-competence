@@ -30,7 +30,7 @@
   <li>October 2016 - Databases and SQL</li>
 </ul>
 
-- [Module 1 - Programming Fundamentals](#Programming Fundamentals)
+- [Module 2 - Back-end Programming](#Back-end Programming)
 <ul>
   <li>November 2016 - APIs and Frameworks</li>
   <li>December 2016 - Advanced Front-end</li>
@@ -80,7 +80,6 @@ Reading List:
 ##Resources
   ###Curriculum Utilizes the following online resources:
   
-  
   * [Open Source Society University CS Bachelor's Degree](https://github.com/open-source-society/computer-science)
   * [Viking Code School Preparatory Materials](http://www.vikingcodeschool.com/prep)
   * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
@@ -116,6 +115,7 @@ Reading List:
   * _[Learning to Program by Steven Foote](URL)_
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
 Week 1 - Intro to Web Dev
 
   1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
