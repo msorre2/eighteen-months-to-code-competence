@@ -19,41 +19,40 @@
 
 ##Basic Timeline:
 
-- [Module 1 - Programming Fundamentals](#Programming Fundamentals)
+- [Module 1 - Programming Fundamentals]
 <ul>
-  <li>April 2016 - Intro to Web Dev, Javascript Basics</li> 
-  <li>May 2016 - Javascript</li>
-  <li>June 2016 - Python</li>
-  <li>July 2016 - Ruby</li>
-  <li>August 2016 - Ruby on Rails</li>
-  <li>September 2016 - Algorithms</li>
-  <li>October 2016 - Databases and SQL</li>
+  <li>April 2016 - Intro to Web Dev, Javascript Basics(#Intro to Web Dev, Javascript Basics)</li> 
+  <li>May 2016 - Javascript(#Javascript)</li>
+  <li>June 2016 - Python(#Python</li>
+  <li>July 2016 - Ruby(#Ruby)</li>
+  <li>August 2016 - Ruby on Rails(#Ruby on Rails)</li>
+  <li>September 2016 - Algorithms(#Algorithms)</li>
+  <li>October 2016 - Databases and SQL(#Databases and SQL)</li>
 </ul>
 
-- [Module 2 - Advanced Programming](#Back-end Programming)
+- [Module 2 - Advanced Concepts]
 <ul>
-  <li>November 2016 - APIs and Frameworks</li>
-  <li>December 2016 - Advanced Front-end</li>
-  <li>January 2017 - Data Visualization</li>
-  <li>February 2017 - Advanced Data Visualization</li>
-  <li>March 2017 - PHP and Wordpress</li>
-  <li>April 2017 - Agile Development</li>
+  <li>November 2016 - APIs and Frameworks(#APIs and Frameworks)</li>
+  <li>December 2016 - Advanced Front-end(#Advanced Front-end)</li>
+  <li>January 2017 - Data Visualization(#Data Visualization</li>
+  <li>February 2017 - Advanced Data Visualization(#Advanced Data Visualization)</li>
+  <li>March 2017 - PHP and Wordpress(#PHP and Wordpress)</li>
+  <li>April 2017 - Agile Development(#Agile Development)</li>
 </ul>
 
-- [Module 3 - Portfolio Development and Getting Hired](#Portfolio Development)
+- [Module 3 - Portfolio Development and Getting Hired]
 <ul>
   <li>May 2017 - Portfolio Projects</li>
   <li>June 2017 - Portfolio Projects</li>
   <li>July 2017 - Portfolio Projects</li>
-  <li>August 2017 - Building a Freelance Business</li>
-  <li>September 2017 - Interview Prep</li>
-  <li>October 2017 - Getting Hired</li>
+  <li>August 2017 - Building a Freelance Business(#Building a Freelance Business)</li>
+  <li>September 2017 - Interview Prep(#Interview Prep)</li>
+  <li>October 2017 - Getting Hired(#Getting Hired)</li>
 </ul>
 
 Optional Specialization Sections:
 <ul>
   <li>Data Science and Data Visualization</li>
-    * [Awesome Data Science Resources](https://github.com/okulbilisim/awesome-datascience)
   <li>iOS Development and Swift</li>
   <li>Android Development and Java</li>
 </ul>
