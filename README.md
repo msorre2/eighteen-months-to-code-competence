@@ -100,7 +100,8 @@ Reading List:
 ##Detailed Curriculum
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-##Month #0 - Introduction to Web Dev and The Structure of Web Pages
+##Month #0 - 
+## Introduction to Web Dev and The Structure of Web Pages
 ####HTML, CSS, Bootstrap and jQuery
   Read the following books:
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
@@ -172,7 +173,8 @@ Week 4 - The DOM, jQuery
     
 - - - -
 
-##Month #1 - Programming Basics with Javascript
+##Month #1
+## Programming Basics with Javascript
 ####Javascript and Chrome DevTools
   Read the following books
   <ol>
@@ -228,7 +230,8 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-##Month #2 - Programming with Python
+##Month #2
+## Programming with Python
 ####Continue with JS plus basic python
 
 ####Week 10 -
@@ -270,7 +273,8 @@ Week 4 - The DOM, jQuery
 
 - - - -
 
-##Month #3 - Intro to Ruby
+##Month #3
+## Intro to Ruby
 ####Ruby Fundamentals
 
 Read the following:
@@ -310,7 +314,8 @@ Read the following:
     
 - - - -
 
-##Month #4 - Ruby on Rails
+##Month #4
+## Ruby on Rails
 ####ROR and Ruby
 
 ####Week 18
@@ -352,7 +357,9 @@ Read the following:
 
 - - - -
 
-##Month #5 - Algorithms
+##Month #5
+## Algorithms
+
   Read the following:
   <ol>
     <li>[Full Stack Skills](https://generalassemb.ly/blog/7-essential-skills-full-stack-product-person/)</li>
@@ -452,7 +459,8 @@ Read the following:
 
 - - - -
 
-##Month #7 - APIs and Frameworks
+##Month #7
+## APIs and Frameworks
 ####AngularJS, EspressJS and NodeJS
 
 ####Week 32 -
@@ -533,7 +541,8 @@ Read the following:
 
 - - - -
 
-##Month #9 - Data Visualization
+##Month #9
+## Data Visualization
 
 ####Week 40
   1. Start [Free Code Camp Node.js and Express.js](https://www.freecodecamp.com/map#nested-collapseNodejsandExpressjs)
@@ -607,7 +616,8 @@ Read the following:
 
 - - - -
 
-##Month #11 - PHP and Wordpress
+##Month #11
+## PHP and Wordpress
   
   * Read [Easy WP Guide](http://easywpguide.com/)
   
@@ -648,7 +658,8 @@ Read the following:
 
 - - - -
 
-##Month #12 - Agile Development
+##Month #12
+## Agile Development
 
 ####Week 54
     1.
@@ -681,7 +692,7 @@ Read the following:
 - - - -  
 
 ##Month #13
-##Building a Freelance Business
+## Building a Freelance Business
 ####Creating an Online Presence
 ####Finding Clients and Employers
 
@@ -726,7 +737,7 @@ Read the following:
 - - - -
 
 ##Month #14 
-##Portfolio Projects 1
+## Portfolio Projects 1
 
 ####Week 63
     1. Thinkster's [MEAN Stack tutorial](https://thinkster.io/mean-stack-tutorial)
@@ -759,7 +770,7 @@ Read the following:
 - - - -  
 
 ##Month #15
-##Portfolio Projects 2
+## Portfolio Projects 2
 
 ####Week 67
     1. [Skillcrush 5 Portfolio Sites](http://skillcrush.com/2014/08/11/portfolio-advice-2/)
@@ -790,7 +801,7 @@ Read the following:
 - - - -
 
 ##Month #16
-##Getting Work as a Freelance Developer
+## Getting Work as a Freelance Developer
 
 ####Week 80
     1.
@@ -822,7 +833,7 @@ Read the following:
 - - - -
 
 ##Month #17
-##Interview Prep
+## Interview Prep
 
 ####Week 84
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
