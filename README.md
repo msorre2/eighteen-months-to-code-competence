@@ -17,7 +17,7 @@
 
 - - - -
 
-##Basic Timeline:
+##Basic Overview:
 
 ### Module 1 - Programming Fundamentals
   - April 2016 - [Intro to Web Dev, Javascript Basics](#Intro to Web Dev, Javascript Basics)
