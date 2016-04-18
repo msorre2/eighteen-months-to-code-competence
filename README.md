@@ -106,9 +106,23 @@ Reading List:
 ##Month #0 - 
 ## Introduction to Web Dev and The Structure of Web Pages
 ####HTML, CSS, Bootstrap and jQuery
-  Read the following books:
+  Read the following:
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
   * _[Learning to Program by Steven Foote](URL)_
+  * _[A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)_
+  * _[Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)_
+  * _[What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript)_ 
+  * _[Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript)_ 
+  * _[Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices)_
+  * _[Principles of Unobtrusive Javascript](https://www.w3.org/community/webed/wiki/The_principles_of_unobtrusive_JavaScript)_
+  * _[Javscript Functions](https://www.w3.org/community/webed/wiki/JavaScript_functions)_
+  * _[Objects in Javascript](https://www.w3.org/community/webed/wiki/Objects_in_JavaScript)_
+  * _[Traversing the DOM](https://www.w3.org/community/webed/wiki/Traversing_the_DOM)_
+  * _[Creating and Modifying HTML](https://www.w3.org/community/webed/wiki/Creating_and_modifying_HTML)_
+  * _[Dynamic style - manipulating CSS with JavaScript](https://www.w3.org/community/webed/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript)_
+  * _[Handling Events with Javascript](https://www.w3.org/community/webed/wiki/Handling_events_with_JavaScript)_
+  * _[Javascript Animation](https://www.w3.org/community/webed/wiki/JavaScript_animation)_
+  * _[Graceful Degredation vs Progressive Enhancement](https://www.w3.org/community/webed/wiki/Graceful_degredation_versus_progressive_enhancement)_
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -116,14 +130,11 @@ Week 1 - Intro to Web Dev
 
   1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development)
 
-  2. Complete [Free Code Camp - Getting Started](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works) (15 min)
+  2. Complete [Viking Code School Prework: Basics](https://www.vikingcodeschool.com/web-development-basics) 
 
-  3. Start [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (2 hrs)
-  
-  4. Read [A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript) and [Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)
-  5. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr)
-  5. The Command Line
+  3. Complete [Free Code Camp - Getting Started](https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works) (15 min)
 
+  4. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr)
 
     - Project 0: Create first HTML website with basic CSS style sheet
     
@@ -131,30 +142,30 @@ Week 1 - Intro to Web Dev
 Week 2 - Web Dev Fundamentals
 
   1. Complete [Web Dev 101](http://www.theodinproject.com/web-development-101)
-
-  2. Complete [Free Code Camp HTML and CSS](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) (5 hrs)
-
-  3. Continue [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  4. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr)
+  2. Complete Complete [Viking Code School Prework: Basics](https://www.vikingcodeschool.com/web-design-basics)
+
+  3. Complete [Free Code Camp HTML and CSS](https://www.freecodecamp.com/challenges/say-hello-to-html-elements) (5 hrs)
+
+  4. Continue [CS50 Week 0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
   
-  5. Read [What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript), [Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript), [Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices), and [Principles of Unobtrusive Javascript](https://www.w3.org/community/webed/wiki/The_principles_of_unobtrusive_JavaScript)
+  5. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr)
 
     - Project 1: Create HTML and CSS templates
     
 --------------------------------------------------------------------------------------------------------------------------------------
 Week 3 - Wev Dev Fundamentals 2: Computer Basics
 
-  1. Complete [Free Code Camp Computer Basics](https://www.freecodecamp.com/map#nested-collapseComputerBasics) (2 hrs)
+  1. [Complete Viking Code School Prework: Engineering](https://www.vikingcodeschool.com/software-engineering-basics)
+  
+  2. Complete [Free Code Camp Computer Basics](https://www.freecodecamp.com/map#nested-collapseComputerBasics) (2 hrs)
 
-  2. Complete [Free Code Camp Reponsive Design with Bootstrap](https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers) (5 hrs) 
+  3. Complete [Free Code Camp Reponsive Design with Bootstrap](https://www.freecodecamp.com/challenges/use-responsive-design-with-bootstrap-fluid-containers) (5 hrs) 
 
-  3. Start [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
+  4. Start [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)
       - Linux. C. Compiling. Libraries. Types. Standard output.
   
-  4. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr) 
-  
-  5. Read [Javscript Functions](https://www.w3.org/community/webed/wiki/JavaScript_functions), [Objects in Javascript](https://www.w3.org/community/webed/wiki/Objects_in_JavaScript), [Traversing the DOM](https://www.w3.org/community/webed/wiki/Traversing_the_DOM), and [Creating and Modifying HTML](https://www.w3.org/community/webed/wiki/Creating_and_modifying_HTML)
+  5. [Bento Web Fundamentals](https://bento.io/tracks/web-fundamentals) (1 hr) 
 
     - Project 2: Create a Bootstrap website
     
@@ -168,9 +179,7 @@ Week 4 - The DOM, jQuery
   3. Continue [CS50 Week 1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (2 hrs)
         - Linux. C. Compiling. Libraries. Types. Standard output.
   
-  4. Read [Dynamic style - manipulating CSS with JavaScript](https://www.w3.org/community/webed/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript), [Handling Events with Javascript](https://www.w3.org/community/webed/wiki/Handling_events_with_JavaScript), [Javascript Animation](https://www.w3.org/community/webed/wiki/JavaScript_animation), and [Graceful Degredation vs Progressive Enhancement](https://www.w3.org/community/webed/wiki/Graceful_degredation_versus_progressive_enhancement)
-  
-  5. [Bento.io Front End](https://bento.io/tracks/front-end) (8 hrs)
+  4. [Bento.io Front End](https://bento.io/tracks/front-end) (8 hrs)
 
     - Project 3: Create a website with jQuery animation
     
