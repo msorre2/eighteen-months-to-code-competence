@@ -807,13 +807,13 @@ Read the following:
 ## Getting Work as a Freelance Developer
 
 ####Week 80
-    1.
+    1. [Coursera Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview/) (2 hrs)
     2.  
     3.
 
 --------------------------------------------------------------------------------------------------------------------------------------    
 ####Week 81
-    1.
+    1. [Coursera Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview/) (2 hrs)
     2.  
     3.
     
@@ -821,7 +821,7 @@ Read the following:
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 82
-    1.
+    1. [Coursera Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview/) (2 hrs)
     2.  
     3.
 
@@ -829,7 +829,7 @@ Read the following:
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 83
-    1.
+    1. [Coursera Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview/) (2 hrs)
     2.  
     3.
     
