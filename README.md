@@ -475,6 +475,7 @@ Read the following:
 
   Read the following:
     * _[Full Stack Skills](https://generalassemb.ly/blog/7-essential-skills-full-stack-product-person/)_
+    * _https://www.youtube.com/watch?v=SFp4hp3qS18&list=PLlipSLnrfrUlclWAcvmyxcn6R7tzwALhM_
 
 ####Week 23 - Intermediate Algorithms
 
@@ -491,7 +492,7 @@ Read the following:
   6. [Bento Back End](https://bento.io/tracks/back-end) (5 hrs)
 
     
---------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 24 -
   1. Continue [Free Code Camp Intermediate Algorithm Scripting](https://www.freecodecamp.com/map#nested-collapseIntermediateAlgorithmScripting) (10 hrs)
@@ -888,10 +889,18 @@ Read the following:
 ## Month #12
 ## Agile Development
 
+  Readings:
+    * _[Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)_
+    * _[Contributing to Open Source](https://blog.newrelic.com/2014/05/05/open-source_gettingstarted/)_
+    * _[Code Triage Open Source Projects](http://www.codetriage.com/)_
+    * _[Code Alliance Open Source Projects](http://codealliance.org/)_
+    * _[Code America Open Source Projects](https://www.codeforamerica.org/geeks/civicissues)_
+
 ####Week 54
     1. [Free Code Camp Agile Dev](https://www.freecodecamp.com/map-aside#nested-collapseAgile)
-    2.  
+    2. 
     3. Work through [CS50 Week 10, Final Project](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
+    
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1129,14 +1138,14 @@ Read the following:
 ####Week 84
   1. [The Odin Project Preparing for Job Search](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (10 hrs)
-  3.
+  3. [Firehose Project: Web Dev Jobs](http://blog.thefirehoseproject.com/posts/the-ultimate-guide-to-jobs-in-web-development/)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 85
   1. [The Odin Project Applying to and Interviewing for Jobs](http://www.theodinproject.com/getting-hired-as-a-web-developer)
   2. [Free Code Camp Coding Interview Training](https://www.freecodecamp.com/map#nested-collapse-coding-interview-training) (10 hrs)
-  3.
+  3. [Awesome Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
