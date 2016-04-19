@@ -91,7 +91,9 @@ Reading List:
   * [Web Development using Python & Django](https://www.springboard.com/learning-paths/web-development-python-django/learn/#)
   * [Codecademy Code Year](https://www.codecademy.com/en/tracks/code-year)
   * [Learn.co Web Dev Fundamentals](https://learn.co/tracks/web-development-fundamentals)
+- Other Resources
   * [MongoDB University](https://university.mongodb.com/)
+  * [Firehose Project: 37 Awesome Resources You Can Use To Supplement A Coding Bootcamp](http://blog.thefirehoseproject.com/posts/37-awesome-resources-can-use-supplement-coding-bootcamp/)
 
 - - - -
 ##Detailed Curriculum
