@@ -97,9 +97,9 @@ Reading List:
 
 - - - -
 ##Detailed Curriculum
------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
-##Month #0 - 
+##Month #0
 ## Introduction to Web Dev and The Structure of Web Pages
 ####HTML, CSS, Bootstrap and jQuery
   Read the following:
@@ -138,6 +138,8 @@ Week 1 - Intro to Web Dev
   6. [Codeup Prework: Virtualization](http://prework.codeup.com/content/virtualization/index.html) (15 min)
   
   7. Work through [CS50 Week 0, PS0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
+  
+  8. [Shortcut Foo](https://www.shortcutfoo.com/)
 
     - Project 0: Create first HTML website with basic CSS style sheet
     
@@ -201,7 +203,7 @@ Week 4 - The DOM, jQuery
 ##Month #1
 ## Programming Basics with Javascript
 ####Javascript and Chrome DevTools
-  Read the following books
+  Read the following:
     * _[Javascript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)_
   
 ####Week 5 - Intro to JS
@@ -239,7 +241,7 @@ Week 4 - The DOM, jQuery
   7. Work through [CS50 Week 1, PS1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
   8. Optional: [Code Year Functions in JavaScript](https://www.codecademy.com/courses/4f065456d7df470003008456/resume?curriculum_id=4f4bdd96848740000300026a)
-    [Code Year Intro to Objects I and II](
+    [Code Year Intro to Objects I and II](#)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
@@ -555,7 +557,7 @@ Read the following:
   6. [Bento.io Databases](https://bento.io/tracks/databases) (5 hrs)
 
     
---------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 28
 
@@ -671,6 +673,8 @@ Read the following:
   4. Photoshop
   
   5. Work through [CS50 Week 6, PS5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
+  
+  6. [Typing.io](https://typing.io/)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -682,6 +686,8 @@ Read the following:
   3. Photoshop
   
   4. Work through [CS50 Week 6, PS5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
+  
+  5. [Typing.io](https://typing.io/)
     
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -694,7 +700,7 @@ Read the following:
   
   4. Work through [CS50 Week 6, PS5](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
-    
+  5. [Typing.io](https://typing.io/)  
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 39
