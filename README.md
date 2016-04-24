@@ -101,7 +101,7 @@ Reading List:
 
 ##Month #0
 ## Introduction to Web Dev and The Structure of Web Pages
-  <p>This month goes over fundamental concepts in front-end web development, focusing on HTML, CSS and Javascript. Several projects will provide an opportunity to utilize basic programming concepts and begin to develop a portfolio.</p>
+  <p>This month goes over fundamental concepts in front-end web development, focusing on HTML, CSS and Javascript. Several projects will provide an opportunity to utilize basic programming concepts and begin to develop a portfolio. Also covered are using the Linux command line, text editors, shortcuts, git basics, and beginning jQuery.</p>
 ####HTML, CSS, Bootstrap and jQuery
   Read the following:
   * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
