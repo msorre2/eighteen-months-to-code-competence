@@ -103,24 +103,6 @@ Reading List:
 ## Introduction to Web Dev and The Structure of Web Pages
   <p>This month goes over fundamental concepts in front-end web development, focusing on HTML, CSS and Javascript. Several projects will provide an opportunity to utilize basic programming concepts and begin to develop a portfolio. Also covered are using the Linux command line, text editors, shortcuts, git basics, and beginning jQuery.</p>
 ####HTML, CSS, Bootstrap and jQuery
-  Read the following:
-  * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
-  * _[Learning to Program by Steven Foote](URL)_
-  * _[A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)_
-  * _[Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)_
-  * _[What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript)_ 
-  * _[Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript)_ 
-  * _[Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices)_
-  * _[Principles of Unobtrusive Javascript](https://www.w3.org/community/webed/wiki/The_principles_of_unobtrusive_JavaScript)_
-  * _[Javscript Functions](https://www.w3.org/community/webed/wiki/JavaScript_functions)_
-  * _[Objects in Javascript](https://www.w3.org/community/webed/wiki/Objects_in_JavaScript)_
-  * _[Traversing the DOM](https://www.w3.org/community/webed/wiki/Traversing_the_DOM)_
-  * _[Creating and Modifying HTML](https://www.w3.org/community/webed/wiki/Creating_and_modifying_HTML)_
-  * _[Dynamic style - manipulating CSS with JavaScript](https://www.w3.org/community/webed/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript)_
-  * _[Handling Events with Javascript](https://www.w3.org/community/webed/wiki/Handling_events_with_JavaScript)_
-  * _[Javascript Animation](https://www.w3.org/community/webed/wiki/JavaScript_animation)_
-  * _[Graceful Degredation vs Progressive Enhancement](https://www.w3.org/community/webed/wiki/Graceful_degredation_versus_progressive_enhancement)_
-  * _[General Assembly: Thinking Programmatically](http://fundamentals.generalassemb.ly/01_chapter/10_lesson.html)_
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -131,6 +113,7 @@ Week 1 - Intro to Web Dev
   * _[HTML for Beginners](http://www.whoishostingthis.com/resources/html-for-beginners/)_
   * _[The Magic of CSS](http://adamschwartz.co/magic-of-css/)_
   * _[Speaking Javascript](http://speakingjs.com/es5/)_
+  * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
   
   <p>Estimated time commitment: 18-20 hrs</p>
 
@@ -160,6 +143,8 @@ Week 2 - Web Dev Fundamentals
   * _[Getting Real](http://gettingreal.37signals.com/)_
   * _[How to be Creative](http://changethis.com/manifesto/show/6.HowToBeCreative)_
   * _[Guide to Mockups](https://speckyboy.com/2015/01/09/free-ebook-guide-mockups/)_
+  * _[Learning to Program by Steven Foote](URL)_
+  * _[A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)_
   
   <p>Estimated time commitment: 22-25 hrs</p>
 
@@ -183,7 +168,8 @@ Week 3 - Wev Dev Fundamentals 2: Computer Basics
   Read the following:
   * _[Time Management for Creative People](http://www.wishfulthinking.co.uk/2007/12/03/time-management-for-creative-people-free-e-book/)_
   * _[Designing for the Web](http://designingfortheweb.co.uk/)_
-  
+  * _[Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)_
+  * _[What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript)_ 
   
   <p>Estimated time commitment: 21-25 hrs</p>
 
@@ -211,6 +197,8 @@ Week 4 - The DOM, jQuery
   * _[Web Designer's Success Guide](http://airgid.com/blog/everything-creative/web-designers-success-guide-free-ebook/)_
   * _[50 Ways to Please Your Customers](http://www.pqs.pe/sites/default/files/archivos/2015/aprende-mas/09/sbello/mobify_50ways_ebook.pdf)_
   * _[Pixel Perfect Precision Manual 3](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/)_
+  * _[Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript)_ 
+  * _[Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices)_
 
   <p>Estimated time commitment: 23-30 hrs</p>
 
@@ -232,12 +220,16 @@ Week 4 - The DOM, jQuery
 - - - -
 
 ##Month #1
-## Programming Basics with Javascript
+## Basic to Intermediate Javascript
 ####Javascript and Chrome DevTools
-  Read the following:
-    * _[Javascript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)_
   
 ####Week 5 - Intro to JS
+
+  Read the following:
+  * _[Javascript for Cats](https://noblemule.gitbooks.io/javascript-for-cats/content/)_
+  * _[Principles of Unobtrusive Javascript](https://www.w3.org/community/webed/wiki/The_principles_of_unobtrusive_JavaScript)_
+  * _[Javscript Functions](https://www.w3.org/community/webed/wiki/JavaScript_functions)_
+  
   1. Start [The Odin Project The Basics and the Browser](http://www.theodinproject.com/javascript-and-jquery)
   
   2. Start [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (10 hrs)
@@ -257,6 +249,11 @@ Week 4 - The DOM, jQuery
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 6 - Developer Tools, Big O Notation
+
+  Read the following:
+  * _[Objects in Javascript](https://www.w3.org/community/webed/wiki/Objects_in_JavaScript)_
+  * _[Traversing the DOM](https://www.w3.org/community/webed/wiki/Traversing_the_DOM)_
+  
   1. Start [The Odin Project Events, Effects and Widgets](http://www.theodinproject.com/javascript-and-jquery)
   
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (15 hrs)
@@ -278,6 +275,10 @@ Week 4 - The DOM, jQuery
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 7 - JS Core Skills
+
+  * _[Creating and Modifying HTML](https://www.w3.org/community/webed/wiki/Creating_and_modifying_HTML)_
+  * _[Dynamic style - manipulating CSS with JavaScript](https://www.w3.org/community/webed/wiki/Dynamic_style_-_manipulating_CSS_with_JavaScript)_
+
   1. Start [The Odin Project Deeper into Javascript](http://www.theodinproject.com/javascript-and-jquery)
   
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (10 hrs) 
@@ -293,6 +294,10 @@ Week 4 - The DOM, jQuery
 
 ####Week 8
 
+  Read the following:
+  * _[Handling Events with Javascript](https://www.w3.org/community/webed/wiki/Handling_events_with_JavaScript)_
+  * _[Javascript Animation](https://www.w3.org/community/webed/wiki/JavaScript_animation)_
+  
   1. Start [The Odin Project Advanced Browser Work, Better Forms with jQuery and AJAX](http://www.theodinproject.com/javascript-and-jquery)
   
   2. Continue [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects) (15 hrs)
@@ -304,9 +309,14 @@ Week 4 - The DOM, jQuery
   5. Work through [CS50 Week 1, PS1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
     
---------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
-####Week 9 -
+####Week 9
+
+  Read the following:
+  * _[Graceful Degredation vs Progressive Enhancement](https://www.w3.org/community/webed/wiki/Graceful_degredation_versus_progressive_enhancement)_
+  * _[General Assembly: Thinking Programmatically](http://fundamentals.generalassemb.ly/01_chapter/10_lesson.html)_
+
   1. Complete [The Odin Project Finishing Up With Javascript](http://www.theodinproject.com/javascript-and-jquery)
   
   2. Complete [Node School JS Tutorials](http://nodeschool.io/#workshoppers)
