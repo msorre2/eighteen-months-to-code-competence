@@ -108,14 +108,14 @@ Reading List:
 
 Week 1 - Intro to Web Dev
 
-  Read the following:
-  * _[Web Field Manual](http://webfieldmanual.com/)_
-  * _[HTML for Beginners](http://www.whoishostingthis.com/resources/html-for-beginners/)_
-  * _[The Magic of CSS](http://adamschwartz.co/magic-of-css/)_
-  * _[Speaking Javascript](http://speakingjs.com/es5/)_
-  * _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
+Read the following:
+* _[Web Field Manual](http://webfieldmanual.com/)_
+* _[HTML for Beginners](http://www.whoishostingthis.com/resources/html-for-beginners/)_
+* _[The Magic of CSS](http://adamschwartz.co/magic-of-css/)_
+* _[Speaking Javascript](http://speakingjs.com/es5/)_
+* _[The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)_
   
-  <p>Estimated time commitment: 18-20 hrs</p>
+<p>Estimated time commitment: 18-20 hrs</p>
 
   1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development) (5 hrs)
 
@@ -138,15 +138,15 @@ Week 1 - Intro to Web Dev
 --------------------------------------------------------------------------------------------------------------------------------------
 Week 2 - Web Dev Fundamentals
 
-  Read the following:
-  * _[The UX Reader](http://theuxreader.com/products/the-ux-reader-ebook)_
-  * _[Getting Real](http://gettingreal.37signals.com/)_
-  * _[How to be Creative](http://changethis.com/manifesto/show/6.HowToBeCreative)_
-  * _[Guide to Mockups](https://speckyboy.com/2015/01/09/free-ebook-guide-mockups/)_
-  * _[Learning to Program by Steven Foote](URL)_
-  * _[A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)_
+Read the following:
+* _[The UX Reader](http://theuxreader.com/products/the-ux-reader-ebook)_
+* _[Getting Real](http://gettingreal.37signals.com/)_
+* _[How to be Creative](http://changethis.com/manifesto/show/6.HowToBeCreative)_
+* _[Guide to Mockups](https://speckyboy.com/2015/01/09/free-ebook-guide-mockups/)_
+* _[Learning to Program by Steven Foote](URL)_
+* _[A Short History of Javascript](https://www.w3.org/community/webed/wiki/A_Short_History_of_JavaScript)_
   
-  <p>Estimated time commitment: 22-25 hrs</p>
+<p>Estimated time commitment: 22-25 hrs</p>
 
   1. Complete [Web Dev 101](http://www.theodinproject.com/web-development-101) (4 hrs)
   
@@ -162,16 +162,17 @@ Week 2 - Web Dev Fundamentals
 
     - Project 1: Create HTML and CSS templates
     
---------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+
 Week 3 - Wev Dev Fundamentals 2: Computer Basics
 
-  Read the following:
-  * _[Time Management for Creative People](http://www.wishfulthinking.co.uk/2007/12/03/time-management-for-creative-people-free-e-book/)_
-  * _[Designing for the Web](http://designingfortheweb.co.uk/)_
-  * _[Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)_
-  * _[What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript)_ 
+Read the following:
+* _[Time Management for Creative People](http://www.wishfulthinking.co.uk/2007/12/03/time-management-for-creative-people-free-e-book/)_
+* _[Designing for the Web](http://designingfortheweb.co.uk/)_
+* _[Programming - the real basics](https://www.w3.org/community/webed/wiki/Programming_-_the_real_basics)_
+* _[What You Can Do with Javascript](https://www.w3.org/community/webed/wiki/What_can_you_do_with_JavaScript)_ 
   
-  <p>Estimated time commitment: 21-25 hrs</p>
+<p>Estimated time commitment: 21-25 hrs</p>
 
   1. [Complete Viking Code School Prework: Engineering](https://www.vikingcodeschool.com/software-engineering-basics) (2 hrs)
   
@@ -190,17 +191,18 @@ Week 3 - Wev Dev Fundamentals 2: Computer Basics
 
     - Project 2: Create a Bootstrap website
     
---------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
+
 Week 4 - The DOM, jQuery
 
-  Read the following:
-  * _[Web Designer's Success Guide](http://airgid.com/blog/everything-creative/web-designers-success-guide-free-ebook/)_
-  * _[50 Ways to Please Your Customers](http://www.pqs.pe/sites/default/files/archivos/2015/aprende-mas/09/sbello/mobify_50ways_ebook.pdf)_
-  * _[Pixel Perfect Precision Manual 3](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/)_
-  * _[Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript)_ 
-  * _[Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices)_
+Read the following:
+* _[Web Designer's Success Guide](http://airgid.com/blog/everything-creative/web-designers-success-guide-free-ebook/)_
+* _[50 Ways to Please Your Customers](http://www.pqs.pe/sites/default/files/archivos/2015/aprende-mas/09/sbello/mobify_50ways_ebook.pdf)_
+* _[Pixel Perfect Precision Manual 3](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/)_
+* _[Your First Look at Javascript](https://www.w3.org/community/webed/wiki/Your_first_look_at_JavaScript)_ 
+* _[Javascript Best Practices](https://www.w3.org/community/webed/wiki/JavaScript_best_practices)_
 
-  <p>Estimated time commitment: 23-30 hrs</p>
+<p>Estimated time commitment: 23-30 hrs</p>
 
   1. Complete [Free Code Camp 'The DOM'](https://www.freecodecamp.com/map#nested-collapseTheDOM) (30 min)
 
