@@ -125,6 +125,20 @@ Reading List:
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Week 1 - Intro to Web Dev
+  Read the following:
+  * _[Web Field Manual](http://webfieldmanual.com/)_
+  * _[HTML for Beginners](http://www.whoishostingthis.com/resources/html-for-beginners/)_
+  * _[The Magic of CSS](http://adamschwartz.co/magic-of-css/)_
+  * _[Speaking Javascript](http://speakingjs.com/es5/)_
+  * _[The UX Reader](http://theuxreader.com/products/the-ux-reader-ebook)_
+  * _[Getting Real](http://gettingreal.37signals.com/)_
+  * _[How to be Creative](http://changethis.com/manifesto/show/6.HowToBeCreative)_
+  * _[Guide to Mockups](https://speckyboy.com/2015/01/09/free-ebook-guide-mockups/)_
+  * _[Time Management for Creative People](http://www.wishfulthinking.co.uk/2007/12/03/time-management-for-creative-people-free-e-book/)_
+  * _[Designing for the Web](http://designingfortheweb.co.uk/)_
+  * _[Web Designer's Success Guide](http://airgid.com/blog/everything-creative/web-designers-success-guide-free-ebook/)_
+  * _[50 Ways to Please Your Customers](http://www.pqs.pe/sites/default/files/archivos/2015/aprende-mas/09/sbello/mobify_50ways_ebook.pdf)_
+  * _[Pixel Perfect Precision Manual 3](https://ustwo.com/blog/the-ustwo-pixel-perfect-precision-handbook-3/)_
   <p>Estimated time commitment: 18-20 hrs</p>
 
   1. Complete [Odin Project Intro to Web Dev](http://www.theodinproject.com/introduction-to-web-development) (5 hrs)
