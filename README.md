@@ -189,7 +189,7 @@ Read the following:
   
   7. Work through [CS50 Week 0, PS0](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/)  (5 hrs)
 
-    - Project 2: Create a Bootstrap website
+    - Project 2: Create a Bootstrap Portfolio website
     
 -------------------------------------------------------------------------------------------------------------------------------------
 
