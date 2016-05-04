@@ -466,6 +466,8 @@ Read the following:
   3. Continue [Free Code Camp Intermediate Front-End Dev Projects](https://www.freecodecamp.com/map#nested-collapseIntermediateFrontEndDevelopmentProjects) (10 hrs)
   
   4. Work through [CS50 Week 4, PS4](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
+  
+  5. [Code Place Getting Started with Rails](https://www.codeplace.com/schools/rails-guides/recipes/getting-started-with-rails/chapters/introduction/sections/what-will-you-learn)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
