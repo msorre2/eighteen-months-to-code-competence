@@ -401,6 +401,7 @@ Read the following:
 Read the following:
     * _[Ruby on Rails Tutorial](https://www.railstutorial.org/book)_
     * _[Intro to Flask](http://flaskbook.com/#flaskintro)_
+    * _[Ruby on Rails Explained for Front End Developers](https://www.codeplace.com/schools/miles-matthias/recipes/ruby-on-rails-explained-for-front-end-developers/chapters/a-brief-introduction-to-ruby-on-rails/sections/a-brief-introduction-to-ruby-on-rails)_
   
 ####Week 14
   1. Start [The Odin Project Basic Ruby](http://www.theodinproject.com/ruby-programming)
@@ -413,6 +414,7 @@ Read the following:
   
   4. [Ruby Koans](http://rubykoans.com/)
 
+    Project: [Project Management Tool](https://www.codeplace.com/schools/miles-matthias/recipes/ruby-on-rails-explained-for-front-end-developers/chapters/a-brief-introduction-to-ruby-on-rails/sections/a-brief-introduction-to-ruby-on-rails)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
