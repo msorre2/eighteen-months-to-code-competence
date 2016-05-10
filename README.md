@@ -1,7 +1,7 @@
 #Eighteen-Month Developer
-#####Free Curriculum to Become a Freelance Web Developer
+#####Free Open-Source Curriculum to Become a Freelance Web Developer
 
-* This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer. It relies almost exclusively on free online resources, with the goal of quickly learning enough programming to be qualified for a junior full-stack developer position
+* This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer. It relies almost exclusively on free online resources, with the goal of quickly learning enough programming to be qualified for a junior full-stack developer position. Please feel free to submit a pull request with any suggestions or updates.
 
 * This program requires a substantial commitment of 25-35 hours a week on average, and goes from May 2016 through October 2017. Read about my journey to full-stack programmer on my [Medium blog](https://medium.com/@strongdan/). Month zero covers HTML, CSS and some Javascript, and is optional if you already have these skills
 
