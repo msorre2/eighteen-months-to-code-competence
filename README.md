@@ -15,6 +15,8 @@
 
 * Briefly covered are: Illustrator, Photoshop, Bug Testing
 
+* Various front- and back-end projects per @sinithwar and others
+
 - - - -
 
 ##Basic Overview:
@@ -247,6 +249,9 @@ Read the following:
   7. Optional: [Code Year - FizzBuzz](https://www.codecademy.com/courses/4f08e38e9bced80001000e58/resume?curriculum_id=4f4bdd96848740000300026a)
   
   8. Optional: [CodeYear Getting Started with Programming](https://www.codecademy.com/courses/4fa836e5996b00000302064a/resume?curriculum_id=4f4bdd96848740000300026a)
+  
+  - Project 4: Make a form in HTML, validate the form with Javascript, deposit a cookie or a session based on a remember me, ensure that form cannot receive any SQL command. (per @sinithwar)
+  
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -273,7 +278,8 @@ Read the following:
   8. Optional: [Code Year Functions in JavaScript](https://www.codecademy.com/courses/4f065456d7df470003008456/resume?curriculum_id=4f4bdd96848740000300026a)
     [Code Year Intro to Objects I and II](#)
 
-    
+  - Project 5: Make a website that reacts like a book using only CSS and JavaScript. (per @sinithwar)
+  
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 7 - JS Core Skills
@@ -291,6 +297,7 @@ Read the following:
   
   5. Work through [CS50 Week 1, PS1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
+  - Project 6: Develop a copy of a shopping site and make it fully responsive for 12 different resolution sizes using only CSS and not Bootstrap. (per @sinithwar)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -310,6 +317,7 @@ Read the following:
   
   5. Work through [CS50 Week 1, PS1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
+  - Project 7: Develop a chat system using only JavaScript. (per @sinithwar)
     
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -328,7 +336,9 @@ Read the following:
   4. Work through [CS50 Week 1, PS1](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
   
   4. If necessary, complete [Free Code Camp Front End Dev Projects](https://www.freecodecamp.com/challenges/get-set-for-our-front-end-development-projects)
-
+  
+  - Project 8: Create a 'Sanitization Function' that prevents at least two of the OWASP's Top 10 (per @sinithwar)
+  
 - - - -
 
 ##Month #2
@@ -346,6 +356,7 @@ Read the following:
   
   5. [Python Koans](https://github.com/gregmalcolm/python_koans)
 
+  - Project 9: Create a Terminal based IRC encrypted with SSL (per @sinithwar)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -358,7 +369,8 @@ Read the following:
   
   4. [Python Koans](https://github.com/gregmalcolm/python_koans)
 
-    
+  - Project 9: Create your own Terminal that detects the file directory (per @sinithwar)
+  
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 12
@@ -374,6 +386,7 @@ Read the following:
   
   6. [Open Tech School's Python Flask](http://opentechschool.github.io/python-flask/)
 
+  - Project 10: Recreate the Notepad program (per @sinithwar)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -391,6 +404,8 @@ Read the following:
   6. [Open Tech School's Python Flask](http://opentechschool.github.io/python-flask/)
   
   7. Start [Writing your first Django App](https://docs.djangoproject.com/en/1.9/intro/tutorial01/)
+  
+  - Project 11: Recreate Amazon identically and ensure OWASP's Top 10 (per @sinithwar)
 
 - - - -
 
@@ -414,7 +429,7 @@ Read the following:
   
   4. [Ruby Koans](http://rubykoans.com/)
 
-    Project: [Project Management Tool](https://www.codeplace.com/schools/miles-matthias/recipes/ruby-on-rails-explained-for-front-end-developers/chapters/a-brief-introduction-to-ruby-on-rails/sections/a-brief-introduction-to-ruby-on-rails)
+    Project 12: [Project Management Tool](https://www.codeplace.com/schools/miles-matthias/recipes/ruby-on-rails-explained-for-front-end-developers/chapters/a-brief-introduction-to-ruby-on-rails/sections/a-brief-introduction-to-ruby-on-rails)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -427,7 +442,8 @@ Read the following:
   
   4. Work through [CS50 Week 3, PS3](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
-    
+  - Project 13: Recreate PayPal identically and ensure OWASP's Top 10 + Make a Paypal 'Card' generator, providing a security code as seen on the back of cards, a name, an expiration data, and the 16 digit card identification number. Along with this, you will need to determine an 'allowable balance' for the card to imitate Paypal Credit (per @sinithwar)
+  
 --------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 16 -
