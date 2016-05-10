@@ -952,7 +952,7 @@ Read the following:
 - - - -
 
 ## Month #12
-## Agile Development
+## Agile Development and UX/UI
 
   Readings:
     * _[Contributing to Open Source on GitHub](https://guides.github.com/activities/contributing-to-open-source/)_
@@ -963,7 +963,7 @@ Read the following:
 
 ####Week 54
     1. [Free Code Camp Agile Dev](https://www.freecodecamp.com/map-aside#nested-collapseAgile)
-    2. 
+    2. [Strategy](http://www.uxapprentice.com/strategy/)
     3. Work through [CS50 Week 10, Final Project](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
     
 
@@ -971,9 +971,9 @@ Read the following:
 
 ####Week 55
 
-    1.
+    1. [Discovery](http://www.uxapprentice.com/discovery/)
 
-    2.  
+    2. [Design](http://www.uxapprentice.com/design/)
 
     3. Work through [CS50 Week 10, Final Project](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
@@ -984,9 +984,11 @@ Read the following:
     
     1.
     
-    2.  
+    2. [What the #$%@ is UX Design?](https://youtu.be/Ovj4hFxko7c)
     
-    3. Work through [CS50 Week 10, Final Project](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
+    3. [How to Design User Flow](http://conversionxl.com/how-to-design-user-flow/)
+    
+    4. Work through [CS50 Week 10, Final Project](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/courseware/) (5 hrs)
 
     
 --------------------------------------------------------------------------------------------------------------------------------------
