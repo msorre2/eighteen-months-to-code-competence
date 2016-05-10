@@ -1,5 +1,5 @@
-#Eighteen-Month Developer
-#####Free Open-Source Curriculum to Become a Freelance Web Developer
+#Open-Source Web Developer
+#####Free Open-Source Curriculum to Become a Freelance Web Developer in Eighteen Months or Less
 
 * This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer. It relies almost exclusively on free online resources, with the goal of quickly learning enough programming to be qualified for a junior full-stack developer position. Please feel free to submit a pull request with any suggestions or updates.
 
