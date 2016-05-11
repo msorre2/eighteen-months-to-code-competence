@@ -55,7 +55,8 @@ Projects include:
   2. HTML and CSS templates
   3. Basic Bootstrap site
   4. Site with jQuery animation
-  5. More...
+  5. [OWASP's Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project#tab=OWASP_Top_10_for_2010)
+  6. More...
   
 - - - -
 
@@ -246,10 +247,9 @@ Read the following:
   
   8. Optional: [CodeYear Getting Started with Programming](https://www.codecademy.com/courses/4fa836e5996b00000302064a/resume?curriculum_id=4f4bdd96848740000300026a)
   
-  - Project 4: Make a form in HTML, validate the form with Javascript, deposit a cookie or a session based on a remember me, ensure that form cannot receive any SQL command. (per @sinithwar)
-  
+  - Project 4: Make a form in HTML, validate the form with Javascript, deposit a cookie or a session based on a remember me, ensure that form cannot receive any SQL command. [Cookie tutorial](https://www.youtube.com/watch?v=cpiBkSzrpk8) (per @sinithwar)
     
---------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 6 - Developer Tools, Big O Notation
 
@@ -276,7 +276,7 @@ Read the following:
 
   - Project 5: Make a website that reacts like a book using only CSS and JavaScript. (per @sinithwar)
   
---------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ####Week 7 - JS Core Skills
 
@@ -352,7 +352,7 @@ Read the following:
   
   5. [Python Koans](https://github.com/gregmalcolm/python_koans)
 
-  - Project 9: Create a Terminal based IRC encrypted with SSL (per @sinithwar)
+  - Project 9: Create a Terminal based IRC encrypted with SSL. [What is SSL?](https://www.sslshopper.com/what-is-ssl.html) (per @sinithwar)
     
 --------------------------------------------------------------------------------------------------------------------------------------
 
