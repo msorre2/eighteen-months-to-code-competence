@@ -93,7 +93,7 @@ Reading List:
 - Other Resources
   * [MongoDB University](https://university.mongodb.com/)
   * [Firehose Project: 37 Awesome Resources You Can Use To Supplement A Coding Bootcamp](http://blog.thefirehoseproject.com/posts/37-awesome-resources-can-use-supplement-coding-bootcamp/)
-
+  * [Ada Dev Academy Textbook Curriculum](https://github.com/Ada-Developers-Academy/textbook-curriculum)
 - - - -
 ##Detailed Curriculum
 -------------------------------------------------------------------------------------------------------------------------------------
