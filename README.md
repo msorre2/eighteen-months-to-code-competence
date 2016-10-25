@@ -1,4 +1,4 @@
-#Eighteen-Month Developer
+#[Eighteen-Month Developer](http://strongdan.github.io/eighteen-months-to-code-competence/)
 #####Free Curriculum to Become a Freelance Web Developer
 
 * This is a curriculum I designed to structure my learning process as I work towards becoming a freelance web developer. It relies almost exclusively on free online resources, with the goal of quickly learning enough programming to be qualified for a junior full-stack developer position
