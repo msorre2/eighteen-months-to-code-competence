@@ -77,7 +77,7 @@ Reading List:
   * [Codeup Prework](http://prework.codeup.com/)
   * [Launch School's Preparatory Materials](https://launchschool.com/course_catalog)
   * [Viking Code School Preparatory Materials](http://www.vikingcodeschool.com/prep)
-  * [Makersquare Preparatory Materials](http://www.makersquare.com/admissions#resources)
+  * [Makersquare Preparatory Materials](https://www.gitbook.com/book/alexatmakersquare/makersquare-front-end-course-prework/details)
 - Online CS Curricula:
   * [Open Source Society University CS Bachelor's Degree](https://github.com/open-source-society/computer-science)
   * [Online Learning: An Intensive Bachelor's Level Computer Science Program Curriculum, Part II](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
